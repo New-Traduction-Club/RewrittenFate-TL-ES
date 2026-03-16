@@ -4,37 +4,37 @@
 translate spanish RewrittenFate_afd95550:
 
     # "I open the clubroom door and am greeted by-"
-    ""
+    "Abro la puerta de clase y me encuentro con..."
 
 # game/RewrittenFate.rpy:5
 translate spanish RewrittenFate_ef4757ba:
 
     # mc "Huh..?"
-    mc ""
+    mc "¿Qué...?"
 
 # game/RewrittenFate.rpy:6
 translate spanish RewrittenFate_6cc9a41f:
 
     # mc "This... isn't how it's supposed to start."
-    mc ""
+    mc "Esto no... debería empezar así."
 
 # game/RewrittenFate.rpy:7
 translate spanish RewrittenFate_b699af18:
 
     # mc "Where is everyone?"
-    mc ""
+    mc "¿Dónde están las chicas?"
 
 # game/RewrittenFate.rpy:9
 translate spanish RewrittenFate_2c295d0e:
 
     # mc "Okay seriously... this isn't the Literature Club."
-    mc ""
+    mc "Vale, espera..., si esto ni siquiera es el club."
 
 # game/RewrittenFate.rpy:10
 translate spanish RewrittenFate_605d57f7:
 
     # mc "Did something change? Did someone mess with the game..??"
-    mc ""
+    mc "¿Ha habido algún cambio? ¿¿Es que alguien lo ha toqueteado...??"
 
 # game/RewrittenFate.rpy:12
 translate spanish RewrittenFate_bb822b9d:
