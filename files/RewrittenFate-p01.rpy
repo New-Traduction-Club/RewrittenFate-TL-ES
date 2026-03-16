@@ -34,7 +34,7 @@ translate spanish RewrittenFate_2c295d0e:
 translate spanish RewrittenFate_605d57f7:
 
     # mc "Did something change? Did someone mess with the game..??"
-    mc "¿Ha habido algún cambio? ¿¿Es que alguien lo ha toqueteado...??"
+    mc "¿Ha habido algún cambio? ¿¿Es que alguien ha toqueteado el juego...??"
 
 # game/RewrittenFate.rpy:12
 translate spanish RewrittenFate_bb822b9d:
