@@ -3,145 +3,144 @@
 translate spanish share_natsuki_17af6d0a:
 
     # n 1q "Not bad! Just... kinda all over the place."
-    n 1q ""
+    n 1q "¡Nada mal! Solo que...un poco caótico."
 
 # game/RewrittenFate.rpy:523
 translate spanish share_natsuki_4ee85db0:
 
     # n 1t "But hey, maybe you're just figuring out your style. Everyone starts somewhere."
-    n 1t ""
+    n 1t "Pero oye, es que quizá estás descubriendo tu propio estilo. Todos empiezan por algo."
 
 # game/RewrittenFate.rpy:524
 translate spanish share_natsuki_ea43d46a:
 
     # mc "Thanks, Natsuki."
-    mc ""
+    mc "Gracias, Natsuki."
 
 # game/RewrittenFate.rpy:525
 translate spanish share_natsuki_d70b4bbc:
 
     # n 2c "Tch... don't get used to compliments, alright?"
-    n 2c ""
+    n 2c "Emm... no te acostumbres a recibir cumplidos, ¿vale?"
 
 # game/RewrittenFate.rpy:526
 translate spanish share_natsuki_81d38395:
 
     # mc "Wouldn't dream of it."
-    mc ""
+    mc "Ni por asomo lo haría."
 
 # game/RewrittenFate.rpy:532
 translate spanish share_yuri_8e8c06b5:
 
     # "Yuri has been unusually quiet since we entered the clubroom."
-    ""
+    "Yuri ha estado extrañamente callada desde que entramos al club."
 
 # game/RewrittenFate.rpy:533
 translate spanish share_yuri_e2ff4633:
 
     # "She's been tucked into the corner, her book unopened, gaze flickering toward me more than the page."
-    ""
+    "Ha estado acurrucada en la esquina, sin abrir su libro, clavando sus ojos más sobre mí que sobre la página."
 
 # game/RewrittenFate.rpy:534
 translate spanish share_yuri_b073862b:
 
     # "She notices me approaching and straightens slightly, tucking a strand of hair behind her ear."
-    ""
+    "Ella me nota acercándome y se endereza un poco, acomodando un mechón de su cabello detrás de su oreja."
 
 # game/RewrittenFate.rpy:535
 translate spanish share_yuri_6c840827:
 
     # y 2q "Ah... it's my turn, isn't it?"
-    y 2q ""
+    y 2q "Ahh... me toca, ¿verdad?"
 
 # game/RewrittenFate.rpy:536
 translate spanish share_yuri_2160966c:
 
     # mc "If you're ready."
-    mc ""
+    mc "Si es que estás lista."
 
 # game/RewrittenFate.rpy:537
 translate spanish share_yuri_8c9706d1:
 
     # "She nods, but hesitates."
-    ""
+    "Ella asiente, pero vacila."
 
 # game/RewrittenFate.rpy:538
 translate spanish share_yuri_b015d145:
 
     # y 3n "Before I show you mine... may I read yours?"
-    y 3n ""
+    y 3n "Antes de mostrarte el mío... ¿podría leer el tuyo?"
 
 # game/RewrittenFate.rpy:539
 translate spanish share_yuri_616b1f79:
 
     # "I offer her the paper, and she takes it like it might fall apart in her hands."
-    ""
+    "Le ofrecí el papel y lo toma como si pudiera desmoronarse en sus manos."
 
 # game/RewrittenFate.rpy:540
 translate spanish share_yuri_1082bbb9:
-
     # "Yuri reads in silence."
-    ""
+    "Yuri lo repasa en silencio."
 
 # game/RewrittenFate.rpy:541
 translate spanish share_yuri_fdd271f1:
 
     # "Her eyes dart from word to word, her expression unreadable- until it isn't."
-    ""
+    "Sus ojos zigzaguean entre palabra y palabra. Su expresión parece indescifrable, hasta que ya no lo es"
 
 # game/RewrittenFate.rpy:542
 translate spanish share_yuri_8cc77782:
 
     # "A small crease forms between her brows."
-    ""
+    "Unas formas arrugadas entre sus cejas."
 
 # game/RewrittenFate.rpy:543
 translate spanish share_yuri_8f8ee4c3:
 
     # "Then, her lips part slightly, as if she wants to say something but can't find the right words."
-    ""
+    "Luego, sus labios se separan un poco, como si quisiera decir algo, pero no pudiera hallar las palabras adecuadas."
 
 # game/RewrittenFate.rpy:544
 translate spanish share_yuri_ba77fd7c:
 
     # "She lifts her notebook slowly, eyes flicking to mine."
-    ""
+    "Levanta su cuaderno lentamente, sus ojos se posan en los míos."
 
 # game/RewrittenFate.rpy:545
 translate spanish share_yuri_8c20e573:
 
     # y 3o "I read your poem."
-    y 3o ""
+    y 3o "Leí tu poema."
 
 # game/RewrittenFate.rpy:546
 translate spanish share_yuri_45712605:
 
     # y "It's... unlike anything I expected."
-    y ""
+    y "No se... parece a nada de lo que esperaba."
 
 # game/RewrittenFate.rpy:547
 translate spanish share_yuri_05383337:
 
     # "She clasps her hands together in front of her, then lowers them again."
-    ""
+    "Entrelaza sus manos frente a ella, luego las baja otra vez."
 
 # game/RewrittenFate.rpy:548
 translate spanish share_yuri_2d5784f9:
 
     # y 2t "There's something disjointed about it. Not in structure- your pacing is actually quite deliberate- but in tone."
-    y 2t ""
+    y 2t "Hay algo que no me cierra acerca de él. No es la estructura, tu ritmo es en verdad lento a propósito, sino el tono."
 
 # game/RewrittenFate.rpy:549
 translate spanish share_yuri_f66d7ce9:
 
     # y "Certain words... they felt as though they didn't come from you."
-    y ""
+    y "Algunas palabras... se sienten como si no nacieran de tu interior."
 
 # game/RewrittenFate.rpy:550
 translate spanish share_yuri_e0f6b936:
 
     # mc "Do you think I didn't write it?"
-    mc ""
+    mc "¿Acaso crees que yo no las he escrito?"
 
 # game/RewrittenFate.rpy:551
 translate spanish share_yuri_b150b8f9:
