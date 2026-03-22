@@ -146,163 +146,163 @@ translate spanish share_yuri_e0f6b936:
 translate spanish share_yuri_b150b8f9:
 
     # "She looks startled, then thoughtful."
-    ""
+    "Luce sobresaltada, luego pensativa."
 
 # game/RewrittenFate.rpy:552
 translate spanish share_yuri_af6eddf8:
 
     # y 3c "No, I believe you did. But maybe... not alone?"
-    y 3c ""
+    y 3c "No, en verdad creo que lo hiciste. Pero, quizá... ¿no lo hiciste solo?"
 
 # game/RewrittenFate.rpy:553
 translate spanish share_yuri_2b3848ac:
 
     # "That catches me off guard."
-    ""
+    "Me toma con la guardia baja."
 
 # game/RewrittenFate.rpy:554
 translate spanish share_yuri_2174cbf4:
 
     # y 2m "Forgive me. I didn't mean to sound accusatory."
-    y 2m ""
+    y 2m "Perdóname. No quise que sonara como una acusación."
 
 # game/RewrittenFate.rpy:555
 translate spanish share_yuri_7ce3b6f4:
 
     # y "It's just... the language shifted. There was a weight to it. Like it had passed through too many hands."
-    y ""
+    y "Es solo que... hubo una variación en el lenguaje. Tenía cierto peso, es como si hubiera pasado por varias manos."
 
 # game/RewrittenFate.rpy:556
 translate spanish share_yuri_cf8bafd7:
 
     # "Her eyes flicker down."
-    ""
+    "Sus ojos parapadearon hacia abajo."
 
 # game/RewrittenFate.rpy:557
 translate spanish share_yuri_da467c58:
 
     # y 2v "But... that's just my impression. Please, take it however you wish."
-    y 2v ""
+    y 2v "Pero... es solo mi impresió. Te ruego, tómalo como te siente mejor."
 
 # game/RewrittenFate.rpy:558
 translate spanish share_yuri_f3d153b4:
 
     # "She adjusts the pages in her notebook, hands trembling just slightly."
-    ""
+    "Ella acomoda las hojas de su cuaderno, sus manos tiemblan de forma leve."
 
 # game/RewrittenFate.rpy:559
 translate spanish share_yuri_1f567457:
 
     # y 3e "Would you like to read mine now?"
-    y 3e ""
+    y 3e "¿Te gustaría leer el mío ahora?"
 
 # game/RewrittenFate.rpy:560
 translate spanish share_yuri_1bf60051:
 
     # mc "Of course."
-    mc ""
+    mc "Pues venga."
 
 # game/RewrittenFate.rpy:561
 translate spanish share_yuri_b6060d50:
 
     # "She offers her poem with both hands."
-    ""
+    "Me ofrece su poema con ambas manos."
 
 # game/RewrittenFate.rpy:563
 translate spanish share_yuri_adbf0963:
 
     # "Yuri looks away as I finish reading."
-    ""
+    "Yur huye con la mirada a medida que termino de leer."
 
 # game/RewrittenFate.rpy:564
 translate spanish share_yuri_edad3f5c:
 
     # y 3f "It's a little... intense, I suppose."
-    y 3f ""
+    y 3f "Es un poquito... intenso, supongo."
 
 # game/RewrittenFate.rpy:565
 translate spanish share_yuri_94b98ecf:
 
     # y "But it's about cycles. Patterns we fall into, even when we know we shouldn't."
-    y ""
+    y "Pero es acerca de los ciclos. Patrones en los que caemos, incluso cuando sabemos que no deberíamos."
 
 # game/RewrittenFate.rpy:566
 translate spanish share_yuri_93fc7c79:
 
     # y 2q "There's danger in feeding what we don't understand... but we do it anyway. Because the hunger feels familiar."
-    y 2q ""
+    y 2q "Alimentar lo que no entendemos tiene sus peligros... pero lo hacemos de todas formas. Porque el hambre se siente como un viejo conocido."
 
 # game/RewrittenFate.rpy:567
 translate spanish share_yuri_8eed1c57:
 
     # mc "Like the part of you that wants something even if it doesn't make sense?"
-    mc ""
+    mc "¿Como la parte de ti que ansía algo incluso cuando no tiene ni una pizca de sentido?"
 
 # game/RewrittenFate.rpy:568
 translate spanish share_yuri_5084a82b:
 
     # "She nods slowly, her thumb brushing the edge of the notebook."
-    ""
+    "Ella asiente lentamente, su pulgar frota el borde del cuaderno."
 
 # game/RewrittenFate.rpy:569
 translate spanish share_yuri_3eaf9846:
 
     # y 1f "Yes. And how we sometimes feed those parts of ourselves without fully realizing it."
-    y 1f ""
+    y 1f "Si. Y como a veces alimentamos esos fragmentos de nosotros sin siquiera darnos cuenta del todo."
 
 # game/RewrittenFate.rpy:570
 translate spanish share_yuri_d09698dd:
 
     # y "Until we do."
-    y ""
+    y "Hasta que lo hacemos."
 
 # game/RewrittenFate.rpy:571
 translate spanish share_yuri_75c5f37c:
 
     # "Her voice dips, but she doesn't sound ashamed. Just thoughtful."
-    ""
+    "Su voz se apaga, pero no suena avergonzada. Solo pensativa."
 
 # game/RewrittenFate.rpy:572
 translate spanish share_yuri_25f42f91:
 
     # "I nod, the words settling into place like pieces of a puzzle I didn't know I was building."
-    ""
+    "Asiento con la cabeza, integrándome como piezas de un rompecabezas que ni sabía que estaba armando."
 
 # game/RewrittenFate.rpy:573
 translate spanish share_yuri_01aa2591:
 
     # "Her voice wavers for just a moment, then steadies again."
-    ""
+    "Su voz titubea por un momento, luego se vuelve firme otra vez."
 
 # game/RewrittenFate.rpy:574
 translate spanish share_yuri_50388893:
 
     # y "Writing is the one place I feel safe letting my thoughts stretch out."
-    y ""
+    y "La escritura es el refugio que me da seguridad, perimitiendo que a mis pensamientos se profundicen."
 
 # game/RewrittenFate.rpy:575
 translate spanish share_yuri_b05099f8:
 
     # y 2m "Even if they're strange sometimes."
-    y 2m ""
+    y 2m "Incluso si son un tanto peculiares a veces."
 
 # game/RewrittenFate.rpy:576
 translate spanish share_yuri_5917a8fc:
 
     # mc "It makes me want to reread it."
-    mc ""
+    mc "Me hace querer volver a leerlo."
 
 # game/RewrittenFate.rpy:577
 translate spanish share_yuri_7548b305:
 
     # "She blinks once, then offers a small, genuine smile."
-    ""
+    "Ella pestañea una vez, luego regala una enorme y genuina sonrisa."
 
 # game/RewrittenFate.rpy:578
 translate spanish share_yuri_3d5dbdd3:
 
     # y 2u "I'd like that."
-    y 2u ""
+    y 2u "Eso me encantaría."
 
 # game/RewrittenFate.rpy:579
 translate spanish share_yuri_f97c10d7:
