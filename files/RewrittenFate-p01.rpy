@@ -502,25 +502,25 @@ translate spanish RewrittenFate_f03b9357:
 translate spanish RewrittenFate_13aa39f8:
 
     # "Her voice is smooth. Practiced."
-    ""
+    "Su voz es relajada. Como si lo hubiese practicado."
 
 # game/RewrittenFate.rpy:148
 translate spanish RewrittenFate_9abccc06:
 
     # "I meet her eyes. Just for a second."
-    ""
+    "Por un segundo, nos vemos a los ojos."
 
 # game/RewrittenFate.rpy:149
 translate spanish RewrittenFate_bc318065:
 
     # "She's looking at me- not just at me, but {i}through{/i} me."
-    ""
+    "Ella me mira, pero no solo a mi, sino a través de mi."
 
 # game/RewrittenFate.rpy:150
 translate spanish RewrittenFate_e44283cc:
 
     # "And yet... she doesn't flinch."
-    ""
+    "Y aun así"
 
 # game/RewrittenFate.rpy:151
 translate spanish RewrittenFate_d5f35b50:
