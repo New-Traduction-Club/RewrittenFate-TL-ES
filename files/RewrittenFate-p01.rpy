@@ -124,7 +124,7 @@ translate spanish RewrittenFate_ce2ad4f7:
 translate spanish RewrittenFate_44428cde:
 
     # mc "And I think it's trying to change everything... perhaps even fix it?"
-    mc "Y creo que está tratando de cambiar todo... tal vez incluso hasta ¿arreglado?"
+    mc "Y creo que está tratando de cambiar todo... tal vez incluso hasta ¿arreglarlo?"
 
 # game/RewrittenFate.rpy:34
 translate spanish RewrittenFate_f207374c:
