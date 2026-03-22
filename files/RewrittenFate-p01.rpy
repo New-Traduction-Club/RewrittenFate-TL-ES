@@ -130,7 +130,7 @@ translate spanish RewrittenFate_44428cde:
 translate spanish RewrittenFate_f207374c:
 
     # centered "{fast}{color=#ff0055}YOU CAN'T SAVE THEM{/color}"
-    centered "{fast}{color=#ff0055}NO PUEDES SALVARLAS{/color}""
+    centered "{fast}{color=#ff0055}NO PUEDES SALVARLAS{/color}"
 
 # game/RewrittenFate.rpy:41
 translate spanish RewrittenFate_356ff5d4:
