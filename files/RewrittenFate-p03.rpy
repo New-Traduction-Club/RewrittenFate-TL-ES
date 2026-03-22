@@ -3,253 +3,253 @@
 translate spanish after_trace_file_entry_b20e79cc:
 
     # "Here we go again."
-    ""
+    "Aquí vamos devuelta."
 
 # game/RewrittenFate.rpy:1021
 translate spanish share_sayori2_69664b98:
 
     # s "Hehe... I'm kinda excited to see what you wrote today!"
-    s ""
+    s "Je, je... ¡Estoy algo emocionada por ver lo que has escrito hoy!"
 
 # game/RewrittenFate.rpy:1022
 translate spanish share_sayori2_c51ae1e7:
 
     # mc "Hope you're ready for a strange one."
-    mc ""
+    mc "Mas te vale estar preparada porque es algo raro."
 
 # game/RewrittenFate.rpy:1023
 translate spanish share_sayori2_6ead4ed6:
 
     # s 2a "Aren't I always?"
-    s 2a ""
+    s 2a "¿No lo estoy siempre?"
 
 # game/RewrittenFate.rpy:1024
 translate spanish share_sayori2_09fcf386:
 
     # "Sayori giggles as she lifts the paper from my hands and begins reading."
-    ""
+    "Sayori entre risitas coge la hoja de mis manos y comienza a leer."
 
 # game/RewrittenFate.rpy:1026
 translate spanish share_sayori2_f674f349:
 
     # "Her eyes dart across the page, her expression shifting subtly- smile fading just slightly."
-    ""
+    "Sus ojos recorren rápidamente la página; su expresión va cambiando sutilmente, su sonrisa se desvanece un poco."
 
 # game/RewrittenFate.rpy:1028
 translate spanish share_sayori2_2821208d:
 
     # s 1o "Hmm..."
-    s 1o ""
+    s 1o "Hmm..."
 
 # game/RewrittenFate.rpy:1029
 translate spanish share_sayori2_ddbba5f2:
 
     # mc "...Is it okay?"
-    mc ""
+    mc "... ¿Mola?"
 
 # game/RewrittenFate.rpy:1030
 translate spanish share_sayori2_39a0c755:
 
     # s 4c "Yeah! I just... wasn't expecting it to be so... thoughtful."
-    s 4c ""
+    s 4c "¡Si! Es solo que... no me lo esperaba que fuese tan... reflexivo."
 
 # game/RewrittenFate.rpy:1031
 translate spanish share_sayori2_880e28c0:
 
     # s "You always find these interesting ways to express things. It's like you're pulling ideas from dreams or something!"
-    s ""
+    s "Siempre encuentras maneras interesantes de expresar las cosas. Es como si sacases esas ideas de sueños o algo así."
 
 # game/RewrittenFate.rpy:1032
 translate spanish share_sayori2_75812a28:
 
     # mc "Well, maybe I am. Or nightmares."
-    mc ""
+    mc "Pues, tal vez lo esté. O de pesadillas."
 
 # game/RewrittenFate.rpy:1033
 translate spanish share_sayori2_4932fccc:
 
     # s 1m "That's spooky..."
-    s 1m ""
+    s 1m "Eso da miedo..."
 
 # game/RewrittenFate.rpy:1034
 translate spanish share_sayori2_c247ca44:
 
     # s 4q "But, like... in a good way! Like ghost stories with marshmallows."
-    s 4q ""
+    s 4q "Pero, diciéndolo... ¡en un buen sentido! como esos cuentos de fantasmas mientras comes malvaviscos."
 
 # game/RewrittenFate.rpy:1035
 translate spanish share_sayori2_994bdcf8:
 
     # mc "That's oddly specific."
-    mc ""
+    mc "Eso es curiosamente específico."
 
 # game/RewrittenFate.rpy:1036
 translate spanish share_sayori2_987810d1:
 
     # s 4r "I mean it though! It's creative."
-    s 4r ""
+    s 4r "¡Lo digo en serio! es creativo."
 
 # game/RewrittenFate.rpy:1037
 translate spanish share_sayori2_cac0decc:
 
     # s 1d "I don't think I'd be brave enough to write something like this."
-    s 1d ""
+    s 1d "Creo que no sería lo suficientemente valiente para poder escribir algo como esto."
 
 # game/RewrittenFate.rpy:1038
 translate spanish share_sayori2_e4f7828a:
 
     # mc "You underestimate yourself."
-    mc ""
+    mc "Te subestimas bastante a ti misma."
 
 # game/RewrittenFate.rpy:1039
 translate spanish share_sayori2_f113cfe5:
 
     # s 1n "Nuh-uh! I write sunshine and cupcakes. You write... feelings with teeth!"
-    s 1n ""
+    s 1n "¡Que va! Si yo solo escribo cosas dulces y bonitas. Pero tu escribes... ¡emociones que duelen!"
 
 # game/RewrittenFate.rpy:1040
 translate spanish share_sayori2_8b49f003:
 
     # mc "Maybe I'll write about sunshine with teeth next."
-    mc ""
+    mc "Quizás la proxima escriba sobre cosas dulces y bonitas que duelan."
 
 # game/RewrittenFate.rpy:1041
 translate spanish share_sayori2_6175c7d1:
 
     # s 4p "Ewwww!"
-    s 4p ""
+    s 4p "¡Ewwww!"
 
 # game/RewrittenFate.rpy:1042
 translate spanish share_sayori2_f26c8345:
 
     # s 2l "...Actually that sounds kinda cool."
-    s 2l ""
+    s 2l "... Aunque en realidad, suena bastante guay."
 
 # game/RewrittenFate.rpy:1043
 translate spanish share_sayori2_45f3582c:
 
     # mc "See? You're already braver than you thought."
-    mc ""
+    mc "¿Ves? Ya eres más valiente de lo que creías. "
 
 # game/RewrittenFate.rpy:1044
 translate spanish share_sayori2_fa94a4f5:
 
     # s 1a "Hehe... Thanks, [mc]."
-    s 1a ""
+    s 1a "Je, je... Gracias, [mc]."
 
 # game/RewrittenFate.rpy:1045
 translate spanish share_sayori2_f3543e37:
 
     # s "Here, you read mine now, okay?"
-    s ""
+    s "Ten, ahora te toca leer el mío, ¿vale?"
 
 # game/RewrittenFate.rpy:1046
 translate spanish share_sayori2_a6907bec:
 
     # mc "Gladly."
-    mc ""
+    mc "Con gusto."
 
 # game/RewrittenFate.rpy:1049
 translate spanish share_sayori2_6347343a:
 
     # mc "...'Spilled Paint'?"
-    mc ""
+    mc "... ¿'Pintura derramada'?"
 
 # game/RewrittenFate.rpy:1050
 translate spanish share_sayori2_af31f75d:
 
     # s 2d "Mmhmm."
-    s 2d ""
+    s 2d "Ajá."
 
 # game/RewrittenFate.rpy:1051
 translate spanish share_sayori2_bdd4100d:
 
     # s "I tried writing something a little different today."
-    s ""
+    s "Hoy he intentado escribir algo diferente."
 
 # game/RewrittenFate.rpy:1052
 translate spanish share_sayori2_0e82b32d:
 
     # s 1c "It's still me, but... I guess I was feeling kind of messy. Like my thoughts were everywhere, and I wanted to show that."
-    s 1c ""
+    s 1c "Sigue siendo yo, pero... Supongo que me sentía hecha un lío. Como si mis pensamientos estuviesen revueltos, y quise expresar eso."
 
 # game/RewrittenFate.rpy:1053
 translate spanish share_sayori2_f03bd3f3:
 
     # s 2l "But not in a bad way! Just, you know... like how life can be colorful, even when it's all splattered and out of order."
-    s 2l ""
+    s 2l "¡Pero no lo digo en plan mal! Es solo que, ya sabes... como cuando la vida puede ser muy colorida, incluso cuando todo está hecho un desastre sin lugar."
 
 # game/RewrittenFate.rpy:1054
 translate spanish share_sayori2_0e555d42:
 
     # mc "I think it worked. It feels honest."
-    mc ""
+    mc "Creo que ha funcionado. Se siente sincero."
 
 # game/RewrittenFate.rpy:1055
 translate spanish share_sayori2_b81d892d:
 
     # s 4q "...Thanks."
-    s 4q ""
+    s 4q "... Gracias."
 
 # game/RewrittenFate.rpy:1056
 translate spanish share_sayori2_c28a865e:
 
     # s "I get nervous showing stuff like this sometimes. Like, what if someone thinks it's too weird, or too random..."
-    s ""
+    s "A veces me pone nerviosa mostrar cosas como esta. Es como, ¿y si alguien piensa que es muy raro o que no tiene sentido?"
 
 # game/RewrittenFate.rpy:1057
 translate spanish share_sayori2_365f4c30:
 
     # mc "Then they'd be missing the point."
-    mc ""
+    mc "En ese caso no estarían entendiendo la idea"
 
 # game/RewrittenFate.rpy:1058
 translate spanish share_sayori2_f865c8ca:
 
     # "She smiles, eyes soft and warm."
-    ""
+    "Ella sonríe, con una mirada suave y cálida."
 
 # game/RewrittenFate.rpy:1059
 translate spanish share_sayori2_ee668a74:
 
     # s 1a "You always know what to say."
-    s 1a ""
+    s 1a "Tu siempre sabes qué decir."
 
 # game/RewrittenFate.rpy:1065
 translate spanish share_natsuki2_1a6ed792:
 
     # n "Alright, let's see what you've got today."
-    n ""
+    n "Pues vale, veamos que es lo que te traes hoy."
 
 # game/RewrittenFate.rpy:1066
 translate spanish share_natsuki2_db6dbedc:
 
     # "She snatches my poem from my hands a little too eagerly, but her eyes scan across the lines quickly."
-    ""
+    "Me arrebata el poema de las manos con un entusiasmo quizá excesivo, pero sus ojos recorren cada línea con rapidez."
 
 # game/RewrittenFate.rpy:1067
 translate spanish share_natsuki2_76ba7600:
 
     # n 1a "Hmph. You're getting better at this."
-    n 1a ""
+    n 1a "Jum, se te va dando cada vez mejor esto."
 
 # game/RewrittenFate.rpy:1068
 translate spanish share_natsuki2_1f80708f:
 
     # mc "Is that your way of saying you liked it?"
-    mc ""
+    mc "¿Es esa tu forma de decir que te ha gustado?"
 
 # game/RewrittenFate.rpy:1069
 translate spanish share_natsuki2_5a8a480b:
 
     # n 5s "Don't push it! I didn't say I *loved* it or anything!"
-    n 5s ""
+    n 5s "¡Tampoco es para tanto! ¡No he dicho que me encantaba ni nada como eso!"
 
 # game/RewrittenFate.rpy:1070
 translate spanish share_natsuki2_91482cc2:
 
     # n 2j "But... it's kind of impressive. You kept it simple but still got your point across."
-    n 2j ""
+    n 2j "Pero... Es algo impresionante. Lo mantuviste simple pero aún así has conservado tu punto."
 
 # game/RewrittenFate.rpy:1071
 translate spanish share_natsuki2_19d5c165:
