@@ -502,277 +502,277 @@ translate spanish RewrittenFate_f03b9357:
 translate spanish RewrittenFate_13aa39f8:
 
     # "Her voice is smooth. Practiced."
-    ""
+    "Su voz es relajada. Como si lo hubiese ensayado."
 
 # game/RewrittenFate.rpy:148
 translate spanish RewrittenFate_9abccc06:
 
     # "I meet her eyes. Just for a second."
-    ""
+    "Por un segundo, nos vemos a los ojos."
 
 # game/RewrittenFate.rpy:149
 translate spanish RewrittenFate_bc318065:
 
     # "She's looking at me- not just at me, but {i}through{/i} me."
-    ""
+    "Me mira, pero no a mi, sino a trevés de mi."
 
 # game/RewrittenFate.rpy:150
 translate spanish RewrittenFate_e44283cc:
 
     # "And yet... she doesn't flinch."
-    ""
+    "Y aún asi, no se inmuta."
 
 # game/RewrittenFate.rpy:151
 translate spanish RewrittenFate_d5f35b50:
 
     # "She mustn't know things are different yet."
-    ""
+    "Aún no debe saber que las cosas cambiaron."
 
 # game/RewrittenFate.rpy:152
 translate spanish RewrittenFate_c64678f2:
 
     # "Sayori beams beside me."
-    ""
+    "Sayori sonrie al lado mio."
 
 # game/RewrittenFate.rpy:153
 translate spanish RewrittenFate_0c6a6aed:
 
     # "Yuri peeks up shyly, fingers tracing the edge of her book."
-    ""
+    "Yuri me ve con sus ojos tímidos, mientras acaricia los bordes de su libro."
 
 # game/RewrittenFate.rpy:154
 translate spanish RewrittenFate_ccbff0e3:
 
     # "Natsuki folds her arms and huffs, a faint blush on her cheeks."
-    ""
+    "Natsuki se cruza de brazos y resopla. Sus mejillas se sonrojan"
 
 # game/RewrittenFate.rpy:155
 translate spanish RewrittenFate_4fd6d35e:
 
     # "They're all here."
-    ""
+    "Están todas aquí."
 
 # game/RewrittenFate.rpy:156
 translate spanish RewrittenFate_81c10dcd:
 
     # "They're all still okay."
-    ""
+    "Están aquí y están bien."
 
 # game/RewrittenFate.rpy:158
 translate spanish RewrittenFate_0ffcd582:
 
     # "I take a slow breath."
-    ""
+    "Respiro profundo."
 
 # game/RewrittenFate.rpy:159
 translate spanish RewrittenFate_e67e1e5b:
 
     # "Okay. One step at a time."
-    ""
+    "Vale. Un paso a la vez."
 
 # game/RewrittenFate.rpy:160
 translate spanish RewrittenFate_25a076c3:
 
     # "First, we play along."
-    ""
+    "Primero, les llevó la corriente."
 
 # game/RewrittenFate.rpy:161
 translate spanish RewrittenFate_1ad97588:
 
     # "Then... we fix this mess."
-    ""
+    "Luego.... arreglamos este lío."
 
 # game/RewrittenFate.rpy:167
 translate spanish RewrittenFate_c7542b92:
 
     # m "So, [mc], what made you decide to join us today?"
-    m ""
+    m "Entonces, ¿qué te hizo interesarte por el club de literatura?"
 
 # game/RewrittenFate.rpy:168
 translate spanish RewrittenFate_4f53ce89:
 
     # mc "I guess... I just wanted to try something new."
-    mc ""
+    mc "Supongo que... solo quería probar algo nuevo."
 
 # game/RewrittenFate.rpy:169
 translate spanish RewrittenFate_cb3503f9:
 
     # m 3b "That's a good attitude to have!"
-    m 3b ""
+    m 3b "¡Esa es la actitud!"
 
 # game/RewrittenFate.rpy:172
 translate spanish RewrittenFate_24a4ebcb:
 
     # s "Monika's been dying to have more members, you know!"
-    s ""
+    s "Monika se moría de ganas por un nuevo miembro."
 
 # game/RewrittenFate.rpy:173
 translate spanish RewrittenFate_beb9d77a:
 
     # s "Now we can really get the club going!"
-    s ""
+    s "¡Ahora podemos poner el club en marcha."
 
 # game/RewrittenFate.rpy:177
 translate spanish RewrittenFate_a12e9ae3:
 
     # n "Pff. We were fine before."
-    n ""
+    n "Jump. Estábamos bien antes."
 
 # game/RewrittenFate.rpy:178
 translate spanish RewrittenFate_7fcf852c:
 
     # n 5b "But whatever. As long as he doesn't get in the way."
-    n 5b ""
+    n 5b "Pero como sea, mientras no entorpezca las cosas."
 
 # game/RewrittenFate.rpy:179
 translate spanish RewrittenFate_1e99142c:
 
     # "Her words bite, but there's no venom. Just habit."
-    ""
+    "Sus palabras lastiman, pero no envenenan. Es solo el hábito."
 
 # game/RewrittenFate.rpy:180
 translate spanish RewrittenFate_4f3738fd:
 
     # "I remember this... I remember {i}all{/i} of this."
-    ""
+    "Recuerdo... lo recuerdo {i}todo{/i}."
 
 # game/RewrittenFate.rpy:185
 translate spanish RewrittenFate_6934b460:
 
     # y "I-I think... it's wonderful to have a new face."
-    y ""
+    y "Cr-creo que... tener una nueva cara es bueno."
 
 # game/RewrittenFate.rpy:186
 translate spanish RewrittenFate_8b16fc3d:
 
     # y "Even if it's just... for today."
-    y ""
+    y "Incluso si es solo... por un día."
 
 # game/RewrittenFate.rpy:187
 translate spanish RewrittenFate_a8496660:
 
     # "Her voice barely carries."
-    ""
+    "Su voz apenas se escucha."
 
 # game/RewrittenFate.rpy:188
 translate spanish RewrittenFate_40ecaffb:
 
     # "She peeks up just once, eyes brushing past mine, before retreating back to her page."
-    ""
+    "Levanta la mirada de su libro, sus ojos se encuentran con los míos y regresan donde se habían quedado."
 
 # game/RewrittenFate.rpy:189
 translate spanish RewrittenFate_05bb2fa2:
 
     # "Still shy. Still delicate."
-    ""
+    "Aún timida y delicada."
 
 # game/RewrittenFate.rpy:190
 translate spanish RewrittenFate_205531b5:
 
     # m 2b "Well, we're really glad you decided to visit today, [mc]."
-    m 2b ""
+    m 2b "Bueno, [mc], estamos muy contentas de que hayas decidido visitarnos hoy"
 
 # game/RewrittenFate.rpy:191
 translate spanish RewrittenFate_4cbca781:
 
     # m "Even if you're just here to look around, I hope you'll consider joining us."
-    m ""
+    m "Incluso si solo vienes a dar una vuelta, espero que consideres unirte."
 
 # game/RewrittenFate.rpy:192
 translate spanish RewrittenFate_efdc62a8:
 
     # "Her words are gentle."
-    ""
+    "Sus palabras son gentiles."
 
 # game/RewrittenFate.rpy:193
 translate spanish RewrittenFate_534110ed:
 
     # "But her eyes... there's a flicker there. Like she's measuring me."
-    ""
+    "Pero sus ojos... tienen un pequeño destello. Como si me estuvieran midiendo."
 
 # game/RewrittenFate.rpy:194
 translate spanish RewrittenFate_28a33c17:
 
     # s 4s "Yeah! I told you it'd be fun, didn't I?"
-    s 4s ""
+    s 4s "¡Sii! ¿Ya ves? Te dije que sería divertido"
 
 # game/RewrittenFate.rpy:195
 translate spanish RewrittenFate_6639202d:
 
     # n 2w "Hmph. We'll see if he can keep up."
-    n 2w ""
+    n 2w "Jum... Veremos si nos puede llevar el ritmo."
 
 # game/RewrittenFate.rpy:196
 translate spanish RewrittenFate_72100007:
 
     # n 2t "No offense, but not everyone can handle this club, you know."
-    n 2t ""
+    n 2t "NO te ofendas, pero no todos pueden aguantar el club ¿sabes?"
 
 # game/RewrittenFate.rpy:197
 translate spanish RewrittenFate_2fcea7ab:
 
     # m 3k "If you'd like, you're welcome to stay and see how we usually spend our time."
-    m 3k ""
+    m 3k "Si gustas, puedes quedarte y ver como pasamos el tiempo."
 
 # game/RewrittenFate.rpy:198
 translate spanish RewrittenFate_a80516a3:
 
     # m 3l "No pressure."
-    m 3l ""
+    m 3l "Sin presiones."
 
 # game/RewrittenFate.rpy:199
 translate spanish RewrittenFate_f9d3004d:
 
     # "She says it kindly."
-    ""
+    "Lo dice gentilmente"
 
 # game/RewrittenFate.rpy:200
 translate spanish RewrittenFate_9998aa97:
 
     # "But somehow, I feel the weight of the invitation settle over me."
-    ""
+    "Pero aun así, siento la presión de la invitación sobre mí."
 
 # game/RewrittenFate.rpy:201
 translate spanish RewrittenFate_94dc26bb:
 
     # "It's starting again."
-    ""
+    "Esta comenzando de nuevo."
 
 # game/RewrittenFate.rpy:202
 translate spanish RewrittenFate_0184c6b2:
 
     # "This is where the loop begins to tighten."
-    ""
+    "Este es el momento cuando el ciclo comienza a estrecharse."
 
 # game/RewrittenFate.rpy:208
 translate spanish RewrittenFate_e3154fa9:
 
     # m "If you'd like, you're welcome to come back tomorrow."
-    m ""
+    m "Si gustas, puedes volver mañana."
 
 # game/RewrittenFate.rpy:209
 translate spanish RewrittenFate_a1ee7324:
 
     # m 3j "We're always happy to have more people join."
-    m 3j ""
+    m 3j "Siempre nos alegra tener nuevos miembros."
 
 # game/RewrittenFate.rpy:210
 translate spanish RewrittenFate_949b8ac3:
 
     # "Her voice is light, her smile easy- but for just a second, I feel her eyes linger on me."
-    ""
+    "Su turno es alegre, su sonrisa..., por un momento, siento como sus se ojos se fijan en mí"
 
 # game/RewrittenFate.rpy:211
 translate spanish RewrittenFate_e3903dac:
 
     # "Like she's searching. Like she almost senses it."
-    ""
+    "Como si estuviesen buscando algo. Como si lo sintiera."
 
 # game/RewrittenFate.rpy:214
 translate spanish RewrittenFate_69f4a246:
 
     # s "You'll come back, right, [mc]?"
-    s ""
+    s "Volveras ¿verdad?"
 
 # game/RewrittenFate.rpy:215
 translate spanish RewrittenFate_3424eca5:
