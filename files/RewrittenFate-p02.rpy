@@ -308,199 +308,199 @@ translate spanish share_yuri_3d5dbdd3:
 translate spanish share_yuri_f97c10d7:
 
     # "She steps back with quiet grace, retreating to her corner once more, the edges of her expression still softened by the moment we shared."
-    ""
+    "Ella retrocede con silenciosa elegancia, replegándose a su esquina una vez más, su expresión aún se atenuaban por el momento que compartimos."
 
 # game/RewrittenFate.rpy:585
 translate spanish share_monika_5a18eb12:
 
     # m "Alright, [mc]... looks like you're my last one today."
-    m ""
+    m "Vale, [mc]... parece que eres la última por hoy"
 
 # game/RewrittenFate.rpy:586
 translate spanish share_monika_7a5d87c1:
 
     # "She offers a practiced smile, her expression as smooth as always."
-    ""
+    "Ella enseña una sonrisa ensayada, su gesto es igual de delicado que siempre."
 
 # game/RewrittenFate.rpy:587
 translate spanish share_monika_801f97d8:
 
     # "But there's something... slower in her movements this time."
-    ""
+    "Pero hay algo... más calmo en sus movimientos esta ocasión."
 
 # game/RewrittenFate.rpy:588
 translate spanish share_monika_5c54682f:
 
     # m "You're fitting in well so far."
-    m ""
+    m "Hasta ahora te estás integrando bien."
 
 # game/RewrittenFate.rpy:589
 translate spanish share_monika_ec5a68b1:
 
     # m "Everyone seems to be enjoying having you around."
-    m ""
+    m "Todo el mundo parece disfrutar tenerte cerca."
 
 # game/RewrittenFate.rpy:590
 translate spanish share_monika_d94345f6:
 
     # "She taps her poem against her fingertips, eyes glancing toward my desk."
-    ""
+    "Ella da golpecitos a su poema con las yemas de los dedos, lanza miradas hacia mi pupitre."
 
 # game/RewrittenFate.rpy:591
 translate spanish share_monika_c28da7bd:
 
     # m 2b "Anyway, let's see what you came up with this time."
-    m 2b ""
+    m 2b "Como sea, veamos qué se te ha ocurrido esta vez."
 
 # game/RewrittenFate.rpy:592
 translate spanish share_monika_40384443:
 
     # "She takes the page gently, her eyes scanning over the words."
-    ""
+    "Ella toma la hoja suavemente, sus ojos examinan las palabras."
 
 # game/RewrittenFate.rpy:593
 translate spanish share_monika_e7acdf60:
 
     # "Her smile doesn't fade but it doesn't quite stay the same either."
-    ""
+    "Su sonrisa no se desvanece, pero tampoco se mantiene como antes."
 
 # game/RewrittenFate.rpy:594
 translate spanish share_monika_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/RewrittenFate.rpy:595
 translate spanish share_monika_f06ababc:
 
     # "A beat passes."
-    ""
+    "Hubo un momento de silencio."
 
 # game/RewrittenFate.rpy:596
 translate spanish share_monika_1d7c725c:
 
     # "She lowers the poem slowly, looking at me for a moment longer than necessary."
-    ""
+    "Baja el poema lentamente, observándome durante una eternidad y un momento más."
 
 # game/RewrittenFate.rpy:597
 translate spanish share_monika_5f705218:
 
     # m 3e "You've got a very... particular voice, you know."
-    m 3e ""
+    m 3e "Tienes una voz muy... especial, ¿sabes?"
 
 # game/RewrittenFate.rpy:598
 translate spanish share_monika_2134551d:
 
     # m "It's like you're trying to say something without saying it."
-    m ""
+    m "Es como si trataras de decir algo sin siquiera mencionarlo."
 
 # game/RewrittenFate.rpy:599
 translate spanish share_monika_a4770310:
 
     # m 1f "Or maybe you don't even realize what you're saying yet."
-    m 1f ""
+    m 1f "O quizá aún no te das cuenta de lo que estás diciendo."
 
 # game/RewrittenFate.rpy:600
 translate spanish share_monika_ac38398f:
 
     # "Her tone is light. But her eyes are sharp."
-    ""
+    "Su tono es laxo, pero su mirada es penetrante."
 
 # game/RewrittenFate.rpy:601
 translate spanish share_monika_b917d7fb:
 
     # m "Still, I really liked it. There's... depth to it. Like you're starting to understand what writing can uncover."
-    m ""
+    m "Aún así, en verdad me gustó. Hay algo de... profundidad en ello. Es como si comenzaras a entender lo que la escritura puede descubrir."
 
 # game/RewrittenFate.rpy:602
 translate spanish share_monika_0bfb0e1c:
 
     # m "Just be careful. Sometimes words can open doors you didn't mean to touch."
-    m ""
+    m "Pero vete con cuidado. A veces las palabras abren puertas por las que no quisieras asomarte."
 
 # game/RewrittenFate.rpy:603
 translate spanish share_monika_32fe03f6:
 
     # "She holds my gaze another moment."
-    ""
+    "Ella mantiene mi mirada por otro momento."
 
 # game/RewrittenFate.rpy:604
 translate spanish share_monika_e77f3164:
 
     # "Then smiles."
-    ""
+    "Luego lanza una sonrisa."
 
 # game/RewrittenFate.rpy:605
 translate spanish share_monika_48a737db:
 
     # m 2a "Anyway, I guess it's my turn now!"
-    m 2a ""
+    m 2a "De todas formas, ¡creo que ya es mi turno!"
 
 # game/RewrittenFate.rpy:606
 translate spanish share_monika_08ff9b9c:
 
     # "She flips her paper toward me with a graceful motion."
-    ""
+    "Ella voltea su hoja hacia mí con un moviemto muy sutil."
 
 # game/RewrittenFate.rpy:607
 translate spanish share_monika_66d3a0d3:
 
     # "Her handwriting is neat as always, almost mechanical in its precision."
-    ""
+    "Su letra manuscrita es prolija como siempre, casi como si tuviera precisión mecánica."
 
 # game/RewrittenFate.rpy:609
 translate spanish share_monika_103b9eee:
 
     # "Something about the poem makes my chest tighten."
-    ""
+    "Algo en el poema hace que mis nervios se tensen."
 
 # game/RewrittenFate.rpy:610
 translate spanish share_monika_fc29db1a:
 
     # "The language is vague, but the structure... the phrasing..."
-    ""
+    "El languaje es algo difuso, pero la estructura... las  frases..."
 
 # game/RewrittenFate.rpy:611
 translate spanish share_monika_1bc68903:
 
     # "...It feels like she's talking to someone."
-    ""
+    "se siente como se estuviera dirigiendo a alguien."
 
 # game/RewrittenFate.rpy:612
 translate spanish share_monika_84216776:
 
     # mc "Did you write this last night?"
-    mc ""
+    mc "¿Has escrito esto anoche?"
 
 # game/RewrittenFate.rpy:613
 translate spanish share_monika_a5405a96:
 
     # "Monika just smiles again- softer, more distant."
-    ""
+    "Monika se limitó a sonreír otra vez, más suavemente, más distante."
 
 # game/RewrittenFate.rpy:614
 translate spanish share_monika_5d96a446:
 
     # m 1j "I don't always write poems for others to understand, [mc]."
-    m 1j ""
+    m 1j "No siempre escribo poemas para que otros los entiendan, [mc]."
 
 # game/RewrittenFate.rpy:615
 translate spanish share_monika_5a2cb94e:
 
     # m "Sometimes I write them so I can understand myself."
-    m ""
+    m "A veces los escribo para entenderme a mí misma."
 
 # game/RewrittenFate.rpy:616
 translate spanish share_monika_c7f995ff:
 
     # m 1e "I guess what matters is whether it made you feel something, right?"
-    m 1e ""
+    m 1e "Creo que lo importante es que te hice sentir algo, ¿no es así?"
 
 # game/RewrittenFate.rpy:618
 translate spanish share_monika_33f38ad5:
 
     # "Monika smiles and takes a steps back, there's a weight in the air, like a breath held just a second too long."
-    ""
+    "Monika sonríe y retrocede un paso, el aire se siente pesado, como si sostuviera la respiración por un segundo más de la cuenta."
 
 # game/RewrittenFate.rpy:622
 translate spanish After_monika_share_5230c65b:
