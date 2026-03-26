@@ -123,7 +123,7 @@ translate spanish share_sayori2_6175c7d1:
 translate spanish share_sayori2_f26c8345:
 
     # s 2l "...Actually that sounds kinda cool."
-    s 2l "... Aunque en realidad, suena bastante guay."
+    s 2l "... Aunque en realidad, eso suena bastante guay."
 
 # game/RewrittenFate.rpy:1043
 translate spanish share_sayori2_45f3582c:
@@ -201,7 +201,7 @@ translate spanish share_sayori2_c28a865e:
 translate spanish share_sayori2_365f4c30:
 
     # mc "Then they'd be missing the point."
-    mc "En ese caso no estarían entendiendo la idea"
+    mc "En ese caso no estarían entendiendo la idea."
 
 # game/RewrittenFate.rpy:1058
 translate spanish share_sayori2_f865c8ca:
@@ -231,7 +231,7 @@ translate spanish share_natsuki2_db6dbedc:
 translate spanish share_natsuki2_76ba7600:
 
     # n 1a "Hmph. You're getting better at this."
-    n 1a "Jum, se te va dando cada vez mejor esto."
+    n 1a "Jum. Se te va dando cada vez mejor esto."
 
 # game/RewrittenFate.rpy:1068
 translate spanish share_natsuki2_1f80708f:
@@ -255,229 +255,229 @@ translate spanish share_natsuki2_91482cc2:
 translate spanish share_natsuki2_19d5c165:
 
     # n 2c "That takes some restraint. Most people either try way too hard or get too vague."
-    n 2c ""
+    n 2c "Algo así requiere cierta prudencia. La mayoría de personas o lo exagera o se queda muy corta."
 
 # game/RewrittenFate.rpy:1072
 translate spanish share_natsuki2_ecdf58d6:
 
     # mc "I'll take that as a compliment, then."
-    mc ""
+    mc "Tomaré eso como un cumplido entonces."
 
 # game/RewrittenFate.rpy:1073
 translate spanish share_natsuki2_9ed4f59d:
 
     # n 1q "Tch... do whatever you want."
-    n 1q ""
+    n 1q "Tsk... haz lo que se te dé la gana."
 
 # game/RewrittenFate.rpy:1074
 translate spanish share_natsuki2_01ebd21f:
 
     # "She crosses her arms but looks away, trying to hide the slight pink on her cheeks."
-    ""
+    "Ella cruza los brazos y aparta la mirada, intentando esconder el más leve sonrojo de sus mejillas."
 
 # game/RewrittenFate.rpy:1075
 translate spanish share_natsuki2_3cdfc2de:
 
     # n 1a "Anyway, here's mine. "
-    n 1a ""
+    n 1a "De todos modos, este es el mío."
 
 # game/RewrittenFate.rpy:1077
 translate spanish share_natsuki2_a9c17375:
 
     # n 4c "It's about how things don't always have to be super deep or complicated, you know?"
-    n 4c ""
+    n 4c "Va de como las cosas no siempre tienen que ser muy profundas o complicadas, ¿sabes?"
 
 # game/RewrittenFate.rpy:1078
 translate spanish share_natsuki2_3fb731dd:
 
     # n 2k "Sometimes just enjoying the moment, like being at the beach, is enough."
-    n 2k ""
+    n 2k "A veces basta con disfrutar del momento, como cuando estás en la playa."
 
 # game/RewrittenFate.rpy:1079
 translate spanish share_natsuki2_535ffbb6:
 
     # n 2h "And you shouldn't let other people make you feel bad for liking the things you like."
-    n 2h ""
+    n 2h "Y que no deberías dejar que los demás te hagan sentir mal por que te gusten las cosas que te gustan"
 
 # game/RewrittenFate.rpy:1080
 translate spanish share_natsuki2_dad28150:
 
     # mc "I get that. I think it's a good reminder, honestly."
-    mc ""
+    mc "Lo entiendo. Creo que es un buen recordatorio, de verdad."
 
 # game/RewrittenFate.rpy:1081
 translate spanish share_natsuki2_42bdda3d:
 
     # n 1t "...Heh. Maybe you're not so bad after all."
-    n 1t ""
+    n 1t "Je... A lo mejor no eres tan malo después de todo."
 
 # game/RewrittenFate.rpy:1082
 translate spanish share_natsuki2_6a10335a:
 
     # "She gives me a short, proud smile before turning her head sharply."
-    ""
+    "Me regala una sonrisa pequeña y con orgullo antes de que ella aparte su cabeza bruscamente."
 
 # game/RewrittenFate.rpy:1083
 translate spanish share_natsuki2_204eff44:
 
     # n 1y "Now go show your poem to someone else before I change my mind!"
-    n 1y ""
+    n 1y "Vale, ahora ve a enseñarle tu poema a alguien más antes de que cambie de opinión."
 
 # game/RewrittenFate.rpy:1088
 translate spanish share_yuri2_15d81396:
 
     # "I glance over at Yuri. She's been quietly adjusting the placement of her pens, her poem already resting in front of her."
-    ""
+    "Miro a Yuri de reojo. Con su poema ya frente a ella, ha estado ajustando en silencio la posición de sus bolígrafos."
 
 # game/RewrittenFate.rpy:1089
 translate spanish share_yuri2_1ca7acbc:
 
     # "She notices my gaze and stiffens slightly, her fingers pausing mid-adjustment."
-    ""
+    "Se da cuenta de que la miro y se queda un poco paralizada, deteniendo los dedos a mitad de sus ajustes."
 
 # game/RewrittenFate.rpy:1091
 translate spanish share_yuri2_e72920b3:
 
     # mc "Hey, Yuri."
-    mc ""
+    mc "Oye, Yuri"
 
 # game/RewrittenFate.rpy:1092
 translate spanish share_yuri2_67d84e61:
 
     # mc "Want to read my poem next?"
-    mc ""
+    mc "¿Quieres leer mi poema luego?"
 
 # game/RewrittenFate.rpy:1093
 translate spanish share_yuri2_8f284d36:
 
     # y 2v "...Y-Yes. I was hoping you'd ask."
-    y 2v ""
+    y 2v "…S-sí. Estaba esperando a que me lo pidieras."
 
 # game/RewrittenFate.rpy:1094
 translate spanish share_yuri2_4e47ff3b:
 
     # "Yuri takes the poem delicately, as if it might crumble in her hands."
-    ""
+    "Yuri coge el poema con delicadeza, como si fuera a romperse en pedacitos en sus manos."
 
 # game/RewrittenFate.rpy:1096
 translate spanish share_yuri2_8daac832:
 
     # "Her eyes scan the page slowly, carefully- more slowly than yesterday."
-    ""
+    "Sus ojos recorren la hoja lentamente, con cuidado, incluso más despacio que ayer."
 
 # game/RewrittenFate.rpy:1098
 translate spanish share_yuri2_cf417cad:
 
     # "Her lips tighten as she reaches the bottom. The silence stretches."
-    ""
+    "Sus labios se tensan al llegar al final. El silencio se alarga."
 
 # game/RewrittenFate.rpy:1099
 translate spanish share_yuri2_c9b69693:
 
     # mc "...What do you think?"
-    mc ""
+    mc "... ¿Qué te parece?"
 
 # game/RewrittenFate.rpy:1100
 translate spanish share_yuri2_300483f6:
 
     # y 3w "Ah... well..."
-    y 3w ""
+    y 3w "Ah... Pues..."
 
 # game/RewrittenFate.rpy:1101
 translate spanish share_yuri2_6fc30e9e:
 
     # y "I must admit, I find your style today rather... different."
-    y ""
+    y "Debo admitir que hoy encuentro tu estilo algo... diferente."
 
 # game/RewrittenFate.rpy:1102
 translate spanish share_yuri2_5395d0f6:
 
     # y 3u "It's very... concise. Compact. The imagery is more direct and simple than I anticipated from you."
-    y 3u ""
+    y 3u "Es demasiado... conciso, compacto. La visión aquí es mucho más directa y simple de lo que esperaba de tí."
 
 # game/RewrittenFate.rpy:1103
 translate spanish share_yuri2_c486a340:
 
     # mc "Too simple?"
-    mc ""
+    mc "¿Muy simple?"
 
 # game/RewrittenFate.rpy:1104
 translate spanish share_yuri2_be832c30:
 
     # y 2v "No- well, perhaps."
-    y 2v ""
+    y 2v "No... bueno, quizás."
 
 # game/RewrittenFate.rpy:1105
 translate spanish share_yuri2_20c17fc9:
 
     # y "I just... I was expecting something more... introspective. Or metaphorical."
-    y ""
+    y "Es solo que... me esperaba algo más... introspectivo. O metafórico"
 
 # game/RewrittenFate.rpy:1106
 translate spanish share_yuri2_19deddd7:
 
     # y "But that's just my personal bias, I suppose."
-    y ""
+    y "Pero supongo que eso es solo una preferencia personal mía."
 
 # game/RewrittenFate.rpy:1107
 translate spanish share_yuri2_055613ea:
 
     # y 2t "It reminds me more of Natsuki's style."
-    y 2t ""
+    y 2t "Me recuerda más al estilo de Natsuki."
 
 # game/RewrittenFate.rpy:1108
 translate spanish share_yuri2_1205150d:
 
     # mc "That's fair. I guess I leaned into that on purpose today. Trying new things."
-    mc ""
+    mc "Tiene sentido. Supongo que hoy lo he hecho de esa forma a propósito. Probando algo nuevo."
 
 # game/RewrittenFate.rpy:1109
 translate spanish share_yuri2_be4b29ba:
 
     # "She nods, though a bit stiffly."
-    ""
+    "Ella asiente, aunque con algo de rigidez"
 
 # game/RewrittenFate.rpy:1110
 translate spanish share_yuri2_9701ba6d:
 
     # y 1m "I understand. Exploring different forms can be beneficial to growth."
-    y 1m ""
+    y 1m "Comprendo. Explorar diferentes formas puede ser beneficioso para progresar."
 
 # game/RewrittenFate.rpy:1111
 translate spanish share_yuri2_20b5f499:
 
     # y "Though I hope you won't abandon your reflective side entirely. It suited you."
-    y ""
+    y "Aun así, espero que no dejes de lado por completo tu lado más reflexivo. Te sentaba bien."
 
 # game/RewrittenFate.rpy:1112
 translate spanish share_yuri2_6fb1465c:
 
     # mc "Noted."
-    mc ""
+    mc "Anotado."
 
 # game/RewrittenFate.rpy:1114
 translate spanish share_yuri2_a0f128c7:
 
     # "She offers a small, polite smile as she hands the poem back."
-    ""
+    "Me dedica una sonrisa pequeña y educada mientras me devuelve el poema."
 
 # game/RewrittenFate.rpy:1115
 translate spanish share_yuri2_617fab80:
 
     # y 2a "I suppose... I should share mine now."
-    y 2a ""
+    y 2a "Supongo que... ahora debería compartir el mío."
 
 # game/RewrittenFate.rpy:1116
 translate spanish share_yuri2_b06e2b06:
 
     # mc "I'm looking forward to it."
-    mc ""
+    mc "Tengo ganas de verlo."
 
 # game/RewrittenFate.rpy:1117
 translate spanish share_yuri2_f4deb26e:
 
     # y 2b "It's called... 'Beach.'"
-    y 2b ""
+    y 2b "Se titula… 'La Playa'"
 
 # game/RewrittenFate.rpy:1118
 translate spanish share_yuri2_62596295:
