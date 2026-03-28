@@ -982,31 +982,31 @@ translate spanish RewrittenFate_95241095:
 translate spanish RewrittenFate_affb9a9e:
 
     # "If I can hold this world together, maybe- just maybe- she'll never have to know."
-    ""
+    "Si puedo mantener este mundo a salvo... tal vez, nunca lo tenga que saber."
 
 # game/RewrittenFate.rpy:270
 translate spanish RewrittenFate_36a59570:
 
     # "Back in my room, the quiet settles around me."
-    ""
+    "Una vez en mi habitación, el silencio se apodera del ambiente."
 
 # game/RewrittenFate.rpy:271
 translate spanish RewrittenFate_95fb6d52:
 
     # "The blank page waits on my desk, bathed in lamplight."
-    ""
+    "Las hojas en blanco esperan sobre mi escritorio."
 
 # game/RewrittenFate.rpy:272
 translate spanish RewrittenFate_aaf688c3:
 
     # "A poem."
-    ""
+    "Un poema."
 
 # game/RewrittenFate.rpy:273
 translate spanish RewrittenFate_ac516234:
 
     # "Simple. Meaningless."
-    ""
+    "Simple y sin sentido."
 
 # game/RewrittenFate.rpy:274
 translate spanish RewrittenFate_4cc6d4a8:
@@ -1018,73 +1018,73 @@ translate spanish RewrittenFate_4cc6d4a8:
 translate spanish RewrittenFate_553220d9:
 
     # "I pick up my pen."
-    ""
+    "Agarro el boli."
 
 # game/RewrittenFate.rpy:282
 translate spanish RewrittenFate_56db2e80:
 
     # "I sit at my desk, staring down at the notebook."
-    ""
+    "Me siento en el escritorio y miro mi cuaderno."
 
 # game/RewrittenFate.rpy:283
 translate spanish RewrittenFate_b43be4f5:
 
     # "Lines fill the page- words I don't quite remember choosing."
-    ""
+    "Las trazos llenan la página con palabras que no recuerdo escoger."
 
 # game/RewrittenFate.rpy:284
 translate spanish RewrittenFate_52957623:
 
     # "I turn it slightly under the lamp, reading them again."
-    ""
+    "Lo pongo levemente bajo la luz de la lampara y releo el poema."
 
 # game/RewrittenFate.rpy:285
 translate spanish RewrittenFate_0525f2f9:
 
     # "'Epiphany.' 'Self-Aware.' 'Reality.'"
-    ""
+    " 'Epifanía.' 'Consciencia.' 'Realidad.'"
 
 # game/RewrittenFate.rpy:286
 translate spanish RewrittenFate_dd19c15a:
 
     # "I tap the eraser against the edge of the desk."
-    ""
+    "Golpeteo el borrador contra el borde del escritorio."
 
 # game/RewrittenFate.rpy:287
 translate spanish RewrittenFate_46f15ce4:
 
     # mc "Weird... Did I- really write this?"
-    mc ""
+    mc "Que raro... ¿Acabo de escribir esto?."
 
 # game/RewrittenFate.rpy:288
 translate spanish RewrittenFate_fb0aecdd:
 
     # "I lean back in my chair, exhaling slowly."
-    ""
+    "Me inclino en la silla y exhalo lentamente."
 
 # game/RewrittenFate.rpy:289
 translate spanish RewrittenFate_4db8eae1:
 
     # "Outside, a streetlight flickers. The room feels still."
-    ""
+    "Afuera, las luces de la calle tildan. La habitación se siente quieta. "
 
 # game/RewrittenFate.rpy:290
 translate spanish RewrittenFate_891d4012:
 
     # "I close the notebook, sliding it into a drawer."
-    ""
+    "Cierro el cuaderno y lo guardo en el cajón."
 
 # game/RewrittenFate.rpy:291
 translate spanish RewrittenFate_469b5350:
 
     # "It's fine, It's just a poem."
-    ""
+    "Está bien. Es solo un poema."
 
 # game/RewrittenFate.rpy:292
 translate spanish RewrittenFate_1a169593:
 
     # "But the uneasy knot in my stomach doesn't go away."
-    ""
+    "Pero el nudo en mi estómago no se va."
 
 # game/RewrittenFate.rpy:293
 translate spanish RewrittenFate_71fa0221:
