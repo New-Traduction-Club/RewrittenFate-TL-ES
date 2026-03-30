@@ -506,61 +506,61 @@ translate spanish share_monika_33f38ad5:
 translate spanish After_monika_share_5230c65b:
 
     # "The others resume their chatter, oblivious... or pretending to be."
-    ""
+    "Los otros continuaron con su parloteo, ajenos a nosotros... o al menos pretendiendo eso."
 
 # game/RewrittenFate.rpy:623
 translate spanish After_monika_share_fc1c283f:
 
     # "I sit still."
-    ""
+    "Yo permanezco quiet[end_letter_gender]"
 
 # game/RewrittenFate.rpy:624
 translate spanish After_monika_share_282e6e6b:
 
     # "A quiet buzz creeps at the edge of my hearing. Faint, electronic. Like something humming behind the walls."
-    ""
+    "Un zumbido sordo trepa hasta mis oídos. Suave, electrónico, como si algo resonara detrás de las paredes."
 
 # game/RewrittenFate.rpy:625
 translate spanish After_monika_share_0f43b763:
 
     # "I glance at my desk. The poem still sits there. Her poem."
-    ""
+    "Yo tanteo mi escritorio con la mirada. El poema aún permanece allí. Su poema."
 
 # game/RewrittenFate.rpy:626
 translate spanish After_monika_share_d20faaee:
 
     # "The letters don't shift. They don't glitch. But... somehow, they feel wrong."
-    ""
+    "Las letras no cambian. Ellas no fallan. Pero... por alguna razón, se sienten incorrectas."
 
 # game/RewrittenFate.rpy:627
 translate spanish After_monika_share_39f6f7ba:
 
     # "I rub at my temple. The headache from earlier hasn't returned, but there's a strange pressure building behind my eyes."
-    ""
+    "Me froto las sienes. El dolor de cabeza de hace rato no ha regresado, pero hay una presión extraña acumulándose detrás de mis ojos"
 
 # game/RewrittenFate.rpy:628
 translate spanish After_monika_share_736dc726:
 
     # "I reach into my bag, half on instinct, and pull out my notebook."
-    ""
+    "Busco dentro de mi mochila, casi por instinto, y saco mi cuaderno."
 
 # game/RewrittenFate.rpy:630
 translate spanish After_monika_share_a5cb5de7:
 
     # "Except..."
-    ""
+    "Execepto que..."
 
 # game/RewrittenFate.rpy:631
 translate spanish After_monika_share_aa893043:
 
     # "I don't remember putting this in there."
-    ""
+    "No recuerdo haberlo puesto allí,"
 
 # game/RewrittenFate.rpy:632
 translate spanish After_monika_share_1d9e2a84:
 
     # "A loose sheet of paper. Unmarked. Unlined. Its surface has a strange texture- too clean, too smooth."
-    ""
+    "Una hoja de papel rezagada. Sin marcar. En blanco. Tiene una textura extraña en la superficie, demasiado limpia, demasiado "
 
 # game/RewrittenFate.rpy:633
 translate spanish After_monika_share_0bdb1d86:
