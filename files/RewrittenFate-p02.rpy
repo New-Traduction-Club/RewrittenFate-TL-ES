@@ -548,199 +548,199 @@ translate spanish After_monika_share_736dc726:
 translate spanish After_monika_share_a5cb5de7:
 
     # "Except..."
-    "Execepto que..."
+    "Excepto que..."
 
 # game/RewrittenFate.rpy:631
 translate spanish After_monika_share_aa893043:
 
     # "I don't remember putting this in there."
-    "No recuerdo haberlo puesto allí,"
+    "No recuerdo haberlo puesto allí."
 
 # game/RewrittenFate.rpy:632
 translate spanish After_monika_share_1d9e2a84:
 
     # "A loose sheet of paper. Unmarked. Unlined. Its surface has a strange texture- too clean, too smooth."
-    "Una hoja de papel rezagada. Sin marcar. En blanco. Tiene una textura extraña en la superficie, demasiado limpia, demasiado "
+    "Una hoja de papel rezagada. Sin marcar. En blanco. Tiene una textura extraña en la superficie, demasiado limpia, demasiado delicada."
 
 # game/RewrittenFate.rpy:633
 translate spanish After_monika_share_0bdb1d86:
 
     # "I turn it over."
-    ""
+    "La volteo."
 
 # game/RewrittenFate.rpy:634
 translate spanish After_monika_share_1c44a849:
 
     # "Black text appears across the surface, as though typed rather than written."
-    ""
+    "Surge un texto negro que cruza toda la superficie, como si estuviera más bien hecho a máquina que escrito."
 
 # game/RewrittenFate.rpy:635
 translate spanish After_monika_share_091fc72c:
 
     # "{color=#00FF66}USER: External file activity detected. Would you like to investigate the source?{/color}"
-    ""
+    "{color=#00FF66}USUARIO: Se ha dectectado la actividad de archivos externo ¿Desea investigar su origen?{/color}"
 
 # game/RewrittenFate.rpy:636
 translate spanish After_monika_share_2cc7b95a:
 
     # "I blink."
-    ""
+    "Parpadeo."
 
 # game/RewrittenFate.rpy:637
 translate spanish After_monika_share_da045e7f:
 
     # "This isn't paper. It's a prompt."
-    ""
+    "Esto no es papel. Es un prompt."
 
 # game/RewrittenFate.rpy:638
 translate spanish After_monika_share_9926fa90:
 
     # "It's a question."
-    ""
+    "Una pregunta."
 
 # game/RewrittenFate.rpy:639
 translate spanish After_monika_share_601858e4:
 
     # "It's... a door."
-    ""
+    "Es... una puerta."
 
 # game/RewrittenFate.rpy:640
 translate spanish After_monika_share_b2ae403c:
 
     # "I hesitate, fingers tightening slightly."
-    ""
+    "Me quedo pasmado, los dedos se me tensan un poco."
 
 # game/RewrittenFate.rpy:641
 translate spanish After_monika_share_b8b81767:
 
     # "...But I already know what my answer is."
-    ""
+    "...Pero, ya conozco cuál es mi respuesta."
 
 # game/RewrittenFate.rpy:642
 translate spanish After_monika_share_1042ee01:
 
     # "I rise from my seat, slipping the notebook into my bag."
-    ""
+    "Me levanto de mi asiento, deslizo el cuaderno dentro de mi mochila."
 
 # game/RewrittenFate.rpy:643
 translate spanish After_monika_share_2b73398c:
 
     # "The air in the clubroom is warm, and the fading sunlight paints soft gold against the desks."
-    ""
+    "El aire del salón se siento cálido, y el sol que se desvanece tiñe de un color dorado tenue los escritorios."
 
 # game/RewrittenFate.rpy:644
 translate spanish After_monika_share_c416943d:
 
     # "I glance around, Yuri still immersed in her book, Natsuki stealing another glance at her tray of cupcakes, Sayori scribbling into the margin of her poem with a focused frown."
-    ""
+    "Echo un vistazo a mi alrededor: Yuri sigue con la nariz metida en su libro, Natsuki lanza otra mirada a su charola de cupcakes, Sayori garabatea el margen de su poema con un semblante concentrado."
 
 # game/RewrittenFate.rpy:647
 translate spanish After_monika_share_ec180c0f:
 
     # s "Hey, [mc]!"
-    s ""
+    s "¡Oye, [mc]!"
 
 # game/RewrittenFate.rpy:648
 translate spanish After_monika_share_311a37c8:
 
     # s "Do you wanna walk home together today?"
-    s ""
+    s "¿Quieres caminar a casa juntos hoy?"
 
 # game/RewrittenFate.rpy:649
 translate spanish After_monika_share_5fba4d94:
 
     # "Her voice lifts, hopeful and familiar. The look in her eyes tells me she's been waiting for the right moment to ask."
-    ""
+    "Su voz se alza, optimista y familiar. La mirada en sus ojos me dice que ella ha estado ansiando el momento correcto para preguntar."
 
 # game/RewrittenFate.rpy:650
 translate spanish After_monika_share_736fb634:
 
     # mc "Sure. I'd like that."
-    mc ""
+    mc "Claro. Me encantaría."
 
 # game/RewrittenFate.rpy:651
 translate spanish After_monika_share_1223c76e:
 
     # s 4r "Yay~!"
-    s 4r ""
+    s 4r "¡Genial!"
 
 # game/RewrittenFate.rpy:652
 translate spanish After_monika_share_7067f834:
 
     # "She beams, her joy unmistakable. I can't help but smile."
-    ""
+    "Ella sonríe, su alegría es inconfundible. No puedo evitar sonreír también."
 
 # game/RewrittenFate.rpy:657
 translate spanish After_monika_share_f63d86a0:
 
     # "We leave the club together, Sayori bouncing a little with each step."
-    ""
+    "Salimos del club juntos, Sayori camina dando unos pequeños brincos."
 
 # game/RewrittenFate.rpy:658
 translate spanish After_monika_share_a1497c37:
 
     # "Students trickle through the halls around us, the last remnants of the school day fading into the gentle hum of the early evening."
-    ""
+    "Los alumnos recorren los salones alrededor nuestro, los últimos remanentes de la jornada escolar se desvanecen en el dulce canturreo del atardecer."
 
 # game/RewrittenFate.rpy:662
 translate spanish After_monika_share_fb4aa74c:
 
     # "Outside, the air is crisp, and the long shadows of the building stretch behind us as we walk."
-    ""
+    "Afuera, el aire es fresco, y las sombras alargadas del edificio se estiran detrás nuestro mientras caminamos."
 
 # game/RewrittenFate.rpy:664
 translate spanish After_monika_share_25c81926:
 
     # s "You were really cool in the club today, you know!"
-    s ""
+    s "¡Sabes, hoy estado fantástic[end_letter_gender] hoy en el club!"
 
 # game/RewrittenFate.rpy:665
 translate spanish After_monika_share_10d48ebe:
 
     # s 4q "Everyone liked your poem. Even Natsuki was trying not to talk about it!"
-    s 4q ""
+    s 4q "Todos quedaron fascinados con tu poema ¡Incluso Natsuki estaba intentando no hablar de ello!"
 
 # game/RewrittenFate.rpy:666
 translate spanish After_monika_share_10dee4ef:
 
     # mc "You think so?"
-    mc ""
+    mc "¿Eso crees?"
 
 # game/RewrittenFate.rpy:667
 translate spanish After_monika_share_d0b7b08a:
 
     # s 4r "Uh-huh!"
-    s 4r ""
+    s 4r "¡Uy uy!"
 
 # game/RewrittenFate.rpy:668
 translate spanish After_monika_share_a04f1d11:
 
     # s 2m "I mean, maybe it came out a little weird, but it was still super creative!"
-    s 2m ""
+    s 2m "¡Me refiero a que quizá fue un poco extraño, pero aún así era muy creativo!"
 
 # game/RewrittenFate.rpy:669
 translate spanish After_monika_share_2fd1955a:
 
     # s 2b "You always surprise me like that."
-    s 2b ""
+    s 2b "Siempres me sorprendes con cosas como esa."
 
 # game/RewrittenFate.rpy:670
 translate spanish After_monika_share_aa2f6adc:
 
     # "I pause for a moment."
-    ""
+    "Me detengo por un instante."
 
 # game/RewrittenFate.rpy:671
 translate spanish After_monika_share_09c9a8a5:
 
     # "She sees it as creativity. Not a glitch. Not a threat."
-    ""
+    "Ella lo considera creativo, no como una falla. No como un peligro."
 
 # game/RewrittenFate.rpy:672
 translate spanish After_monika_share_56878570:
 
     # "Good. Let's keep it that way."
-    ""
+    "Bien. Pues, sigamos así."
 
 # game/RewrittenFate.rpy:675
 translate spanish After_monika_share_8a332d63:
