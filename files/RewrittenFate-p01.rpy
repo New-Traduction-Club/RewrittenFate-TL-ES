@@ -1090,61 +1090,61 @@ translate spanish RewrittenFate_1a169593:
 translate spanish RewrittenFate_71fa0221:
 
     # "Tomorrow, I whisper, glancing at the dark window. I'll figure it out tomorrow."
-    ""
+    "Mañana, susurro, mirando la ventana, lo averiguaré mañana."
 
 # game/RewrittenFate.rpy:294
 translate spanish RewrittenFate_482cf344:
 
     # "Somewhere, faintly, I hear a soft chuckle."
-    ""
+    "Escucho una risita proveniente de algún lado."
 
 # game/RewrittenFate.rpy:299
 translate spanish RewrittenFate_c0b66e77:
 
     # "The morning sun hangs low, pale light slipping between the rooftops as I step outside."
-    ""
+    "Llega la madrugada, la luz pálida se cuela por los techos mientras voy saliendo."
 
 # game/RewrittenFate.rpy:300
 translate spanish RewrittenFate_243b9fb8:
 
     # "The air is crisp against my skin, the world still wrapped in that quiet hush before school begins."
-    ""
+    "Esta fresco. El mundo sigue envuelto en ese silencio antes de que empiece el instituto."
 
 # game/RewrittenFate.rpy:301
 translate spanish RewrittenFate_8f35943e:
 
     # "Ahead, Sayori waves, nearly bouncing in place at the corner."
-    ""
+    "Sayori me saluda de lejos, casi saltando en el lugar."
 
 # game/RewrittenFate.rpy:303
 translate spanish RewrittenFate_811c2970:
 
     # s "Heeey! Over here!"
-    s ""
+    s "¡Heyy! ¡Por aquí!"
 
 # game/RewrittenFate.rpy:304
 translate spanish RewrittenFate_01d7de86:
 
     # "I find myself smiling. Somehow, just seeing her makes everything feel a little steadier."
-    ""
+    "Le sonrío. Verla hace que de alguna manera."
 
 # game/RewrittenFate.rpy:305
 translate spanish RewrittenFate_7f25c530:
 
     # "I walk up, hands shoved deep into my pockets."
-    ""
+    "Camino hacia ella con las manos en los bolsillos."
 
 # game/RewrittenFate.rpy:306
 translate spanish RewrittenFate_69ce0c82:
 
     # mc "Morning, Sayori."
-    mc ""
+    mc "Buenos días, Sayori"
 
 # game/RewrittenFate.rpy:307
 translate spanish RewrittenFate_957a2fcf:
 
     # s 2q "You're slow today! Did you oversleep?"
-    s 2q ""
+    s 2q "¡Estás lento hoy!¿Dormiste bien?"
 
 # game/RewrittenFate.rpy:308
 translate spanish RewrittenFate_851afa1d:
@@ -1156,49 +1156,49 @@ translate spanish RewrittenFate_851afa1d:
 translate spanish RewrittenFate_9c15bc76:
 
     # mc "No, just... thinking, I guess."
-    mc ""
+    mc "No, solo... estoy pensando."
 
 # game/RewrittenFate.rpy:310
 translate spanish RewrittenFate_db488565:
 
     # "She tilts her head, eyes curious but bright."
-    ""
+    "Inclina su cabeza con ojos curiosos pero brillantes."
 
 # game/RewrittenFate.rpy:311
 translate spanish RewrittenFate_5b0ae05b:
 
     # s 2n "About poems? I'm so excited for today! Everyone's gonna share, right?"
-    s 2n ""
+    s 2n "¿En poemas? ¡Que emoción! ¿Crees que todas compartan?"
 
 # game/RewrittenFate.rpy:312
 translate spanish RewrittenFate_b53cb9d0:
 
     # "I nod, the memory of last night's strange words tugging at the edge of my thoughts."
-    ""
+    "Asiento con la cabeza. La mamoria de las últimas extrañas palabras de anoche me resuenan en la cabeza."
 
 # game/RewrittenFate.rpy:313
 translate spanish RewrittenFate_5670f9f3:
 
     # mc "Yeah. Should be... interesting."
-    mc ""
+    mc "Si. Va a ser... interesante."
 
 # game/RewrittenFate.rpy:315
 translate spanish RewrittenFate_fbc352ea:
 
     # "Sayori hums cheerfully, rocking back on her heels as we fall into step."
-    ""
+    "Sayori tararea felizmente, se mece y empezamos nuestra caminata."
 
 # game/RewrittenFate.rpy:316
 translate spanish RewrittenFate_b360628e:
 
     # "The quiet rhythm of our walk fills the space between us- the soft tap of shoes on pavement, the rustle of early breeze through the trees."
-    ""
+    "Los pasos rítmicos de neutra caminata llenan el espacio entre nosotros. El golpe ligero de los zapatos sobre el pavimento, el leve sonido de la brisa entre los árboles."
 
 # game/RewrittenFate.rpy:317
 translate spanish RewrittenFate_986db314:
 
     # "She chatters about little things: what she packed for lunch, how Natsuki was still grumpy yesterday, a dream she can't quite remember but insists was funny."
-    ""
+    "Me habla sobre pequeñas cosas: Que guardo para el almuerzo, sobre como Natsuki seguia molesta ayer, sobre un sueño que no recuerda bien, pero me asegura que era gracioso."
 
 # game/RewrittenFate.rpy:318
 translate spanish RewrittenFate_0af2f09b:
