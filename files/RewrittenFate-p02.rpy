@@ -908,43 +908,43 @@ translate spanish After_monika_share_af48244c:
 translate spanish After_monika_share_821d45ec:
 
     # "She doesn't say anything right away. The wind stirs the trees gently above us."
-    ""
+    "Se ha quedado muda por el momento. El viento sacude gentilmente los árboles sobre nuestras cabezas."
 
 # game/RewrittenFate.rpy:708
 translate spanish After_monika_share_804fa519:
 
     # s "...Maybe soon, okay?"
-    s ""
+    s "...Quizá pronto, ¿vale?"
 
 # game/RewrittenFate.rpy:709
 translate spanish After_monika_share_ceaeebf6:
 
     # s "Just give me a little more time."
-    s ""
+    s "Sólo dame un poco más de tiempo."
 
 # game/RewrittenFate.rpy:710
 translate spanish After_monika_share_d71e4a43:
 
     # mc "As long as you need."
-    mc ""
+    mc "Todo el que necesites."
 
 # game/RewrittenFate.rpy:711
 translate spanish After_monika_share_ca3a613a:
 
     # mc "I'll be here."
-    mc ""
+    mc "Estaré aquí."
 
 # game/RewrittenFate.rpy:712
 translate spanish After_monika_share_55096173:
 
     # "She nods, a small, grateful smile returning to her lips."
-    ""
+    "Ella asiente, una sonrisa pequeñita y agradecida regresa a sus labios."
 
 # game/RewrittenFate.rpy:713
 translate spanish After_monika_share_05317de6:
 
     # s "Thanks, [mc]. Really."
-    s ""
+    s "Gracias, [mc]. De veras."
 
 # game/RewrittenFate.rpy:714
 translate spanish After_monika_share_d5b36c9d:
