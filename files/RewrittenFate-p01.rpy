@@ -1204,7 +1204,7 @@ translate spanish RewrittenFate_986db314:
 translate spanish RewrittenFate_0af2f09b:
 
     # "I let her words wash over me, nodding here and there, offering a quiet comment."
-    ""
+    "Me desentiendo de lo que me dice, accedo con la cabeza y comento murmurando."
 
 # game/RewrittenFate.rpy:319
 translate spanish RewrittenFate_fdad96b7:
