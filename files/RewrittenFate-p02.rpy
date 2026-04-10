@@ -950,157 +950,157 @@ translate spanish After_monika_share_05317de6:
 translate spanish After_monika_share_d5b36c9d:
 
     # "The wind plays gently through the trees, rustling leaves overhead like a quiet lullaby."
-    ""
+    "El viento acaricia los árboles suavemente, haciendo crujir las hojas sobre nuestras cabezas, como una suave canción de cuna."
 
 # game/RewrittenFate.rpy:715
 translate spanish After_monika_share_07a8da57:
 
     # "Sayori kicks her feet once more, slower this time, the swing barely moving."
-    ""
+    "Sayori tintinea los pies una vez más, más lento esta vez, el columpio apenas se mueve."
 
 # game/RewrittenFate.rpy:716
 translate spanish After_monika_share_b4729075:
 
     # s 1c "You ever think about stuff like this?"
-    s 1c ""
+    s 1c "¿Alguna vez has pensado en cosas como esta?"
 
 # game/RewrittenFate.rpy:717
 translate spanish After_monika_share_2a072db6:
 
     # s "Just... moments like these?"
-    s ""
+    s "¿Solo en... momentos como estos?"
 
 # game/RewrittenFate.rpy:718
 translate spanish After_monika_share_b2b9e19d:
 
     # mc "What do you mean?"
-    mc ""
+    mc "¿De qué estás hablando?"
 
 # game/RewrittenFate.rpy:719
 translate spanish After_monika_share_b0695b4d:
 
     # s 2d "I dunno. I guess I'm just happy."
-    s 2d ""
+    s 2d "No lo sé. Supongo que solo estoy flipando."
 
 # game/RewrittenFate.rpy:720
 translate spanish After_monika_share_1bcaff36:
 
     # s "Even if it's only for now, I want to remember it."
-    s ""
+    s "Incluso si no es de momento, quiero recordar esto."
 
 # game/RewrittenFate.rpy:722
 translate spanish After_monika_share_108176ce:
 
     # "I glance up at the orange-tinged sky, the sunlight slipping behind distant rooftops."
-    ""
+    "Le doy una ojeada al cielo teñido de anaranjado, la luz se escurre detrás de azoteas lejanas."
 
 # game/RewrittenFate.rpy:723
 translate spanish After_monika_share_a5471e87:
 
     # "The air carries that soft, heavy stillness that only comes near the end of the day."
-    ""
+    "El aire lleva consigo esa suave y pesada quietud que solo se hace presente cerca del final del día."
 
 # game/RewrittenFate.rpy:724
 translate spanish After_monika_share_c6276d40:
 
     # "Neither of us say anything for a while."
-    ""
+    "Ninguno de nosotros dice nada por un instante."
 
 # game/RewrittenFate.rpy:725
 translate spanish After_monika_share_6ac756ad:
 
     # "The creak of the swings... the rustle of trees... her quiet breathing beside me..."
-    ""
+    "El chirrido de los columpios... el susurro de los árboles... su respiración tranquila detrás de mí."
 
 # game/RewrittenFate.rpy:726
 translate spanish After_monika_share_e547c08e:
 
     # "The world narrows to just this."
-    ""
+    "El mundo se reduce solo a esto."
 
 # game/RewrittenFate.rpy:731
 translate spanish After_monika_share_1e207281:
 
     # "The sun has dipped below the horizon by the time we start walking again."
-    ""
+    "El astro mayor ya se ha hundido en el horizonte para cuando reanudamos nuestra caminata. "
 
 # game/RewrittenFate.rpy:732
 translate spanish After_monika_share_1ffd0598:
 
     # "Streetlights flicker on one by one, painting the sidewalk in golden pools of light."
-    ""
+    "Las luces de la acera titilan una a una, impreganando la acera en charcos de luz dorada."
 
 # game/RewrittenFate.rpy:733
 translate spanish After_monika_share_56170e49:
 
     # "Sayori walks close to me, her shoulder brushing mine every so often."
-    ""
+    "Sayori camina cerca de mí, su hombro roza el mío de vez en cuando."
 
 # game/RewrittenFate.rpy:734
 translate spanish After_monika_share_27ed1ee4:
 
     # s 2b "Thanks for staying out with me."
-    s 2b ""
+    s 2b "Gracias por quedarte conmigo."
 
 # game/RewrittenFate.rpy:735
 translate spanish After_monika_share_907581c9:
 
     # mc "You don't have to thank me."
-    mc ""
+    mc "No debes agradecerme."
 
 # game/RewrittenFate.rpy:736
 translate spanish After_monika_share_8dec91ad:
 
     # mc "I liked it."
-    mc ""
+    mc "Lo disfruté."
 
 # game/RewrittenFate.rpy:737
 translate spanish After_monika_share_f593dff9:
 
     # s 3q "Me too..."
-    s 3q ""
+    s 3q "Yo también..."
 
 # game/RewrittenFate.rpy:738
 translate spanish After_monika_share_cbf72089:
 
     # s "I feel like I can finally breathe again."
-    s ""
+    s "Siento que por fin podemos volver a respirar."
 
 # game/RewrittenFate.rpy:739
 translate spanish After_monika_share_acbe4d43:
 
     # "Her voice is soft, a little distant. But she smiles when she says it."
-    ""
+    "Su voz es suave, algo distante. Pero su sonrisa se hace presente cuando lo dice."
 
 # game/RewrittenFate.rpy:740
 translate spanish After_monika_share_07596671:
 
     # "And somehow, that feels like enough."
-    ""
+    "Y de alguna manera, me da que ya vale."
 
 # game/RewrittenFate.rpy:741
 translate spanish After_monika_share_89cfec9f:
 
     # "Sayori and I wish eachother goodnight and make our way into our respective homes."
-    ""
+    "Sayori y yo mos deseamos buenas noches y fuimos cada uno a nuestras casas."
 
 # game/RewrittenFate.rpy:744
 translate spanish After_monika_share_3a855faf:
 
     # "The room is quiet again, just the soft hum of the ceiling fan and the distant hush of passing cars outside."
-    ""
+    "La habitación está en silencio otra vez, solo se oye el suave zumbido del ventilador de techo y el lejano ruido de los autos circulando afuera."
 
 # game/RewrittenFate.rpy:745
 translate spanish After_monika_share_a25bc52d:
 
     # "I sit at my desk, eyes drifting over the scattered pages and open notebook from earlier."
-    ""
+    "Me siento en mi escritorio, mis ojos vagan sobre las páginas dispersas y el cuaderno abierto desde antes."
 
 # game/RewrittenFate.rpy:746
 translate spanish After_monika_share_49bba021:
 
     # "I can still hear her laugh. See her swinging gently in the park, that brave little smile she wore even as her eyes threatened to betray her."
-    ""
+    "Aún puedo escuchar su risa. Verla columpiándose suavemente en el parque, esa sonrisilla aguerrida que mostraba incluso cuando sus ojos amenazaban con traicionarla."
 
 # game/RewrittenFate.rpy:747
 translate spanish After_monika_share_f6d481a1:
