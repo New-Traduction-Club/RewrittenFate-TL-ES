@@ -1106,37 +1106,37 @@ translate spanish After_monika_share_49bba021:
 translate spanish After_monika_share_f6d481a1:
 
     # mc "She's trying so hard to hold it all in..."
-    mc ""
+    mc "Está dejándose la vida tratando de guardarse todo..."
 
 # game/RewrittenFate.rpy:748
 translate spanish After_monika_share_a8b8b81b:
 
     # "I run a hand through my hair, leaning back in the chair."
-    ""
+    "Paso una mano por mi cabello, mientras me reclino de nuevo en la silla."
 
 # game/RewrittenFate.rpy:749
 translate spanish After_monika_share_1b0e46d7:
 
     # mc "She doesn't want to be a burden. But pretending she's okay- that's only going to make it worse."
-    mc ""
+    mc "Ella no desea ser una carga. Pero hacer de cuenta que está bien solo hará que las cosas sean peores."
 
 # game/RewrittenFate.rpy:750
 translate spanish After_monika_share_9c730520:
 
     # "I stare up at the ceiling for a moment, thoughts swirling."
-    ""
+    "Dirijo la mirada hacia el techo por un momento, los pensamientos se tornan turbulentos."
 
 # game/RewrittenFate.rpy:751
 translate spanish After_monika_share_094052d3:
 
     # mc "I've seen how it ends. I'm not going to let it happen again."
-    mc ""
+    mc "He visto cómo termina. No permitiré que vuelva a ocurrir."
 
 # game/RewrittenFate.rpy:752
 translate spanish After_monika_share_d90ce41f:
 
     # mc "Tomorrow... I need to talk to her. Really talk."
-    mc ""
+    mc "Mañana... necesito hablarle. Hablar en serio."
 
 # game/RewrittenFate.rpy:753
 translate spanish After_monika_share_bf161fa0:
