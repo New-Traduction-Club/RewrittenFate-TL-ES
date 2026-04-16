@@ -1142,289 +1142,289 @@ translate spanish After_monika_share_d90ce41f:
 translate spanish After_monika_share_bf161fa0:
 
     # "I look back down at the notebook on my desk."
-    ""
+    "Le echo un vistazo al cuaderno sobre mi escritorio."
 
 # game/RewrittenFate.rpy:754
 translate spanish After_monika_share_dcc5204c:
 
     # "It's still there. The strange poem from the night before."
-    ""
+    "Sigue allí. El peculiar poema de la noche anterior."
 
 # game/RewrittenFate.rpy:755
 translate spanish After_monika_share_2382a657:
 
     # "I slowly flip it open, the same unsettling words staring back at me- familiar, yet foreign."
-    ""
+    "Lo volteo lentamente, las mismas palabras perturbadoras devolviéndome la mirada, aún extrañas."
 
 # game/RewrittenFate.rpy:756
 translate spanish After_monika_share_f0644ff3:
 
     # "A chill runs up my spine."
-    ""
+    "Un escalofrío recorre mi columna."
 
 # game/RewrittenFate.rpy:757
 translate spanish After_monika_share_f8fbaa3d:
 
     # mc "...These weren't mine."
-    mc ""
+    mc "...Estas no eran mías."
 
 # game/RewrittenFate.rpy:758
 translate spanish After_monika_share_60a1f8fa:
 
     # "I reach for the drawer again, fingers brushing the edge of the notebook paper inside."
-    ""
+    "Echo mano a la gaveta otra vez, mis dedos rozan el borde de la hoja del cuaderno."
 
 # game/RewrittenFate.rpy:759
 translate spanish After_monika_share_d7741b98:
 
     # "But something catches my eye."
-    ""
+    "Pero algo captura mi mirada."
 
 # game/RewrittenFate.rpy:760
 translate spanish After_monika_share_d4d11d25:
 
     # "A folder icon. Flickering. Faint, like a ghost on the edge of my vision."
-    ""
+    "Un ícono de carpeta. Parpadeando. Débil, como un fantasma en el rabillo del ojo."
 
 # game/RewrittenFate.rpy:761
 translate spanish After_monika_share_ba8cf5ca:
 
     # "I blink, and it's gone."
-    ""
+    "Pestañeo, y ha desaparecido."
 
 # game/RewrittenFate.rpy:762
 translate spanish After_monika_share_b32469f4:
 
     # "Or... no. Not gone. Just not supposed to be seen."
-    ""
+    "O... no. No se ha ido. Solo que no se supone que sea visto."
 
 # game/RewrittenFate.rpy:763
 translate spanish After_monika_share_e6626b01:
 
     # mc "You're still here, aren't you?"
-    mc ""
+    mc "Sigues aquí... ¿no es así?"
 
 # game/RewrittenFate.rpy:764
 translate spanish After_monika_share_0156f673:
 
     # mc "Watching."
-    mc ""
+    mc "Observando."
 
 # game/RewrittenFate.rpy:765
 translate spanish After_monika_share_27cd953e:
 
     # "The screen of my monitor lights up dimly beside me. I haven't touched it."
-    ""
+    "La pantalla de mi monitor se ilumina débilmente junto a mí. No la he tocado."
 
 # game/RewrittenFate.rpy:766
 translate spanish After_monika_share_dc3e8164:
 
     # "Lines of code flash by- just for a moment."
-    ""
+    "Líneas de código relampaguean, po un instante."
 
 # game/RewrittenFate.rpy:767
 translate spanish After_monika_share_4aa07399:
 
     # "Then-"
-    ""
+    "Luego..."
 
 # game/RewrittenFate.rpy:776
 translate spanish After_monika_share_f473cac8:
 
     # "Something's changed."
-    ""
+    "Algo ha cambiado."
 
 # game/RewrittenFate.rpy:777
 translate spanish After_monika_share_bb78d708:
 
     # "A new file appears in the game directory."
-    ""
+    "Ha aparecido un nuevo archivo en el directorio del juego."
 
 # game/RewrittenFate.rpy:778
 translate spanish After_monika_share_9529ba94:
 
     # "Waiting."
-    ""
+    "Aguardando."
 
 # game/RewrittenFate.rpy:779
 translate spanish After_monika_share_2f577dd0:
 
     # "Calling."
-    ""
+    "Llamando."
 
 # game/RewrittenFate.rpy:793
 translate spanish After_monika_share_fe68612d:
 
     # "The screen flickers."
-    ""
+    "La pantalla titila."
 
 # game/RewrittenFate.rpy:794
 translate spanish After_monika_share_d60e1c0d:
 
     # "Not the notebook. Not the monitor. The whole world."
-    ""
+    "No es el cuaderno. No es el monitor. Es el mundo entero."
 
 # game/RewrittenFate.rpy:795
 translate spanish After_monika_share_461787f6:
 
     # "A low hum coils in my ears, like static bleeding through a speaker left too close to silence."
-    ""
+    "Un sordo canturreo en mis oídos, como una hemorragia estática a través del altavoz casi al borde del silencio."
 
 # game/RewrittenFate.rpy:796
 translate spanish After_monika_share_9661112b:
 
     # "The air feels thinner. Lighter. Wrong."
-    ""
+    "El aire se siente delgado. Más ligero. Incorrecto."
 
 # game/RewrittenFate.rpy:797
 translate spanish After_monika_share_a6cfeb26:
 
     # "On the desk, the notebook glows faintly with a slow white pulse- like breath caught between moments."
-    ""
+    "En el escritoeio, el cuaderno tiene un brillo tenue con un lento pulso blanco, como una respiración pausada entre momentos."
 
 # game/RewrittenFate.rpy:798
 translate spanish After_monika_share_9425f7d8:
 
     # "I reach toward it, but my fingers stall just short of touching it."
-    ""
+    "Trato de alcanzarlo, pero mis dedos se congelan justo antes de tocarlo."
 
 # game/RewrittenFate.rpy:799
 translate spanish After_monika_share_7ac55817:
 
     # "A whisper brushes the edge of my thoughts."
-    ""
+    "Un susurro atraviesa el borde de mis pensamientos."
 
 # game/RewrittenFate.rpy:800
 translate spanish After_monika_share_3894f59e:
 
     # "Not a voice. Not sound. Just... pressure. Like someone else's thoughts nudging too close."
-    ""
+    "No es una voz. No es un sonido. Solo es... presión, como si los pensamientos de alguien más empujaran a los míos."
 
 # game/RewrittenFate.rpy:801
 translate spanish After_monika_share_1d70022b:
 
     # mc "...This isn't just a poem, is it?"
-    mc ""
+    mc "...Esto no es solo un poema, ¿no es así?"
 
 # game/RewrittenFate.rpy:802
 translate spanish After_monika_share_ca70dae5:
 
     # "A sharp flicker blinks across my monitor- lines of code I don't remember writing."
-    ""
+    "Un destello agudo invade mi monitor, líneas de código que no recuerdo haber escrito-"
 
 # game/RewrittenFate.rpy:803
 translate spanish After_monika_share_b087dfd5:
 
     # "Too fast to read. Too familiar to forget."
-    ""
+    "Demasiado rápido para ser leído. Demasiado familiar para olvidarlo."
 
 # game/RewrittenFate.rpy:804
 translate spanish After_monika_share_2690d397:
 
     # "The drawer beside me creaks open."
-    ""
+    "La gaveta a mi lado rechina al abrirse."
 
 # game/RewrittenFate.rpy:805
 translate spanish After_monika_share_d1111a4d:
 
     # "A file appears in the real world."
-    ""
+    "Un archivo aprece en el mundo real."
 
 # game/RewrittenFate.rpy:806
 translate spanish After_monika_share_86e30816:
 
     # "It shouldn't be there."
-    ""
+    "Esto no debería estar aquí."
 
 # game/RewrittenFate.rpy:819
 translate spanish trace_file_entry_6f332291:
 
     # "Open your game folder."
-    ""
+    "Abre tu carpeta de juego."
 
 # game/RewrittenFate.rpy:820
 translate spanish trace_file_entry_8dc31556:
 
     # "A new file waits in the `/game/` directory:"
-    ""
+    "Un nuevo archivo te esta en el directorio `/game/`:"
 
 # game/RewrittenFate.rpy:821
 translate spanish trace_file_entry_ef44833c:
 
     # "`tracepath.0a0e7e5.tmp`"
-    ""
+    "`tracepath.0a0e7e5.tmp`"
 
 # game/RewrittenFate.rpy:822
 translate spanish trace_file_entry_eef371d0:
 
     # mc "...That's not mine."
-    mc ""
+    mc "... Esto no me pertenece."
 
 # game/RewrittenFate.rpy:827
 translate spanish trace_file_entry_a9b29e9e:
 
     # "Something presses against the edge of the code."
-    ""
+    "Algo presiona contra el borde del código."
 
 # game/RewrittenFate.rpy:828
 translate spanish trace_file_entry_1e7ace67:
 
     # "Not a glitch. Not an error."
-    ""
+    "No es un fallo. No es un error."
 
 # game/RewrittenFate.rpy:829
 translate spanish trace_file_entry_b12fb5e9:
 
     # "A presence."
-    ""
+    "Es una presencia."
 
 # game/RewrittenFate.rpy:830
 translate spanish trace_file_entry_46451cf4:
 
     # "It doesn't attack."
-    ""
+    "No ataca."
 
 # game/RewrittenFate.rpy:831
 translate spanish trace_file_entry_cbbe6472:
 
     # "It doesn't answer."
-    ""
+    "No responde."
 
 # game/RewrittenFate.rpy:832
 translate spanish trace_file_entry_1425c99c:
 
     # "It just watches."
-    ""
+    "Solo observa."
 
 # game/RewrittenFate.rpy:833
 translate spanish trace_file_entry_5df398d0:
 
     # mc "...You're the one who gave her the keys, aren't you?"
-    mc ""
+    mc "...Tú eres quien le dio las llaves, ¿verdad?"
 
 # game/RewrittenFate.rpy:834
 translate spanish trace_file_entry_77d65967:
 
     # "No response."
-    ""
+    "No hay respuesta."
 
 # game/RewrittenFate.rpy:835
 translate spanish trace_file_entry_f7afd01e:
 
     # "But I know I'm not alone anymore."
-    ""
+    "Pero sé que no estoy sol[end_letter_gender]."
 
 # game/RewrittenFate.rpy:838
 translate spanish trace_file_entry_f92f375a:
 
     # "A message writes itself into the corner of my vision- handwritten, uneven, like it's trying to remember how writing works:"
-    ""
+    "Un mensaje se escribe solo en la periferia de mi vista, escrito a mano, irregular, como si estuviera tratando de recordar cómo escribir:"
 
 # game/RewrittenFate.rpy:839
 translate spanish trace_file_entry_1770829c:
 
     # "`This will only work if you believe it can.`"
-    ""
+    "`Esto solo funcionará si tú crees en ello.`"
 
 # game/RewrittenFate.rpy:845
 translate spanish trace_file_entry_fb300873:
