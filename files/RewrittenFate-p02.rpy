@@ -1430,205 +1430,205 @@ translate spanish trace_file_entry_1770829c:
 translate spanish trace_file_entry_fb300873:
 
     # "You reach for the file. Not with your hand, but with intention."
-    ""
+    "Alcanzaste el archivo. No con tus manos, pero si con tus intenciones."
 
 # game/RewrittenFate.rpy:846
 translate spanish trace_file_entry_6b4ba8f8:
 
     # "Your world narrows to the text in front of you."
-    ""
+    "Tu mundo se reduce al texto que ves frente a ti."
 
 # game/RewrittenFate.rpy:847
 translate spanish trace_file_entry_44448dfb:
 
     # "It shimmers faintly, as if waiting for something more..."
-    ""
+    "Brilla débilmente, como si estuviera esperando algo más..."
 
 # game/RewrittenFate.rpy:848
 translate spanish trace_file_entry_c51c29b1:
 
     # "A whisper traces the back of my mind, one not my own:"
-    ""
+    "Un susurro resuena en lo más recóndito de mi mente, uno que no es mío:"
 
 # game/RewrittenFate.rpy:849
 translate spanish trace_file_entry_5cacfd57:
 
     # "{i}'If you understand, respond.'{/i}"
-    ""
+    "{i}'Si entiendes, responde.'{/i}"
 
 # game/RewrittenFate.rpy:850
 translate spanish trace_file_entry_57e3cbf5:
 
     # "The file... it wants a reply."
-    ""
+    "El archivo... ansía una respuesta."
 
 # game/RewrittenFate.rpy:851
 translate spanish trace_file_entry_5fb842bf:
 
     # "Maybe if I type something in..."
-    ""
+    "Quizá si escribo algo en su interior..."
 
 # game/RewrittenFate.rpy:852
 translate spanish trace_file_entry_5e1ca872:
 
     # "{i}Try adding something- anything to the file. A word. A sentence. Just let it know you're here...{/i}"
-    ""
+    "{i}Intenta agregar algo, cualquier cosa ,al archivo. Una palabra. Una oración. Solo déjale saber que estás allí...{/i}"
 
 # game/RewrittenFate.rpy:881
 translate spanish after_trace_file_entry_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/RewrittenFate.rpy:882
 translate spanish after_trace_file_entry_1cf7d25e:
 
     # "I feel it. A shift."
-    ""
+    "Siento algo. Un cambio."
 
 # game/RewrittenFate.rpy:883
 translate spanish after_trace_file_entry_3a85e114:
 
     # "The connection is made."
-    ""
+    "La conexión está hecha."
 
 # game/RewrittenFate.rpy:884
 translate spanish after_trace_file_entry_de3f6d46:
 
     # "The air feels different now- charged, like the moment before a storm."
-    ""
+    "El aire se siente diferente ahora, cargado, como el instante anterior a una tormenta."
 
 # game/RewrittenFate.rpy:885
 translate spanish after_trace_file_entry_a0a4adcc:
 
     # "A low static throbs in the back of my mind, no longer distant."
-    ""
+    "Una estática casi imperceptible zumba en lo profundo de mi mente, ya no es lejana."
 
 # game/RewrittenFate.rpy:886
 translate spanish after_trace_file_entry_e3b42cad:
 
     # mc "You saw it, didn't you?"
-    mc ""
+    mc "Lo has visto, ¿no es así?"
 
 # game/RewrittenFate.rpy:887
 translate spanish after_trace_file_entry_2e2fdfd4:
 
     # "I glance toward the monitor. The cursor blinks once. Twice. Then nothing."
-    ""
+    "Lanzo un vistazo al monitor. El cursor titila una vez. Luego, nada."
 
 # game/RewrittenFate.rpy:888
 translate spanish after_trace_file_entry_53236981:
 
     # "But I can feel it. Something responded."
-    ""
+    "Pero pudo sentirlo. Algo ha respondido."
 
 # game/RewrittenFate.rpy:889
 translate spanish after_trace_file_entry_5e67edde:
 
     # "The file changed because you {i}wanted{/i} it to. Because you believed it could."
-    ""
+    "El archivo ha cambiado porque tú así lo has {i}querido{/i}. Porque creíste que podía."
 
 # game/RewrittenFate.rpy:890
 translate spanish after_trace_file_entry_b5cce404:
 
     # "A whisper curls at the edge of my thoughts again- familiar, but not mine."
-    ""
+    "Un murmullo se pasea por el centro de mis pensamientos otra vez, con aire familiar, pero ajeno a mí."
 
 # game/RewrittenFate.rpy:891
 translate spanish after_trace_file_entry_e896687c:
 
     # "It doesn't speak words. It never has. It just... nudges."
-    ""
+    "No se expresa con palabras. Nunca lo ha hecho. Solo... ronda por allí."
 
 # game/RewrittenFate.rpy:892
 translate spanish after_trace_file_entry_800a53f8:
 
     # mc "You're trying to help me, aren't you?"
-    mc ""
+    mc "Estás tratando de ayudarme, ¿verdad?"
 
 # game/RewrittenFate.rpy:893
 translate spanish after_trace_file_entry_59034d80:
 
     # "No answer. Only the stillness. But the silence feels different now."
-    ""
+    "No hay respuesta. Solo reina el silencio. Pero el silencio se percibe diferente."
 
 # game/RewrittenFate.rpy:894
 translate spanish after_trace_file_entry_7411c266:
 
     # "It's not empty. It's listening."
-    ""
+    "No está vacío. Está escuchando."
 
 # game/RewrittenFate.rpy:895
 translate spanish after_trace_file_entry_79f754f6:
 
     # "A single phrase burns itself into the bottom of the notebook page before me."
-    ""
+    "Una sola frase lo replegó a la parte más baja de la hoja del cuaderno anterior a mí."
 
 # game/RewrittenFate.rpy:896
 translate spanish after_trace_file_entry_1a0a3c99:
 
     # "`One step at a time.`"
-    ""
+    "Un paso a la vez."
 
 # game/RewrittenFate.rpy:899
 translate spanish after_trace_file_entry_5e44a000:
 
     # mc "Right..."
-    mc ""
+    mc "Verdad..."
 
 # game/RewrittenFate.rpy:900
 translate spanish after_trace_file_entry_2660290c:
 
     # mc "If I can influence the code... maybe I can change more than just the outcome."
-    mc ""
+    mc "Si pudiera influir en el código... quizá podría cambiar más que solo el resultado."
 
 # game/RewrittenFate.rpy:901
 translate spanish after_trace_file_entry_df72603e:
 
     # "I slowly close the notebook, hands steady."
-    ""
+    "Cierro el cuaderno lentamente, con las manos firmes."
 
 # game/RewrittenFate.rpy:902
 translate spanish after_trace_file_entry_60a2363b:
 
     # mc "Tomorrow, I'll talk to Sayori. Really talk."
-    mc ""
+    mc "Mañana, le hablaré a Sayori. Hablar en serio."
 
 # game/RewrittenFate.rpy:903
 translate spanish after_trace_file_entry_43342024:
 
     # mc "And then I'll figure out the next piece."
-    mc ""
+    mc "Y luego comprenderé la siguiente pieza."
 
 # game/RewrittenFate.rpy:904
 translate spanish after_trace_file_entry_f86a7ae8:
 
     # "I slide the notebook into my drawer, glancing one last time at the screen."
-    ""
+    "Deslizo el cuaderno dentro del escritorio, echándole un último vistazo a la pantalla."
 
 # game/RewrittenFate.rpy:905
 translate spanish after_trace_file_entry_cd9a61af:
 
     # "The cursor still blinks."
-    ""
+    "El curso aún titila."
 
 # game/RewrittenFate.rpy:906
 translate spanish after_trace_file_entry_bf80052e:
 
     # "But for the first time, I don't feel like I'm staring at a machine."
-    ""
+    "Pero a diferencia de la primera vez, no tengo ganas de mirar fijamente a la máquina."
 
 # game/RewrittenFate.rpy:908
 translate spanish after_trace_file_entry_41ef7bd9:
 
     # "The next day awaits."
-    ""
+    "El próximo día aguarda."
 
 # game/RewrittenFate.rpy:912
 translate spanish after_trace_file_entry_607415b5:
 
     # "The sunlight bleeds through my curtains, warm and golden."
-    ""
+    "La luz del sol se escurre a través de mis cortinas, con una calidez dorada."
 
 # game/RewrittenFate.rpy:913
 translate spanish after_trace_file_entry_fa9138c9:
