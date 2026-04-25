@@ -1634,283 +1634,283 @@ translate spanish after_trace_file_entry_607415b5:
 translate spanish after_trace_file_entry_fa9138c9:
 
     # "I blink against the light, mind still heavy from the night before."
-    ""
+    "Parpadeo a contraluz, sigo dando vueltas en mi mente desde la noche anterior."
 
 # game/RewrittenFate.rpy:914
 translate spanish after_trace_file_entry_e006e64d:
 
     # mc "Another file... and that message."
-    mc ""
+    mc "Otro archivo... y ese mensaje."
 
 # game/RewrittenFate.rpy:915
 translate spanish after_trace_file_entry_298d7da3:
 
     # "I don't know what's watching me. Or helping me."
-    ""
-
+    "No sé quién me está observando. O quizá dándome una mano."
+ 
 # game/RewrittenFate.rpy:916
 translate spanish after_trace_file_entry_d8a3f228:
 
     # "But I know it's not over."
-    ""
+    "Pero sé que esto no se ha terminado."
 
 # game/RewrittenFate.rpy:917
 translate spanish after_trace_file_entry_aca9837a:
 
     # "Sayori needs me. That much is clear."
-    ""
+    "Sayori me necesita. Eso está más que claro."
 
 # game/RewrittenFate.rpy:918
 translate spanish after_trace_file_entry_1a38f353:
 
     # "I can't just pretend I don't know what she's hiding anymore."
-    ""
+    "No puedo pretender nunca más que no sé que es lo que oculta."
 
 # game/RewrittenFate.rpy:921
 translate spanish after_trace_file_entry_67156876:
 
     # "She's waiting for me again, bright and bouncy as always."
-    ""
+    "Ella está esperándome otra vez, radiante y vivaz como siempre."
 
 # game/RewrittenFate.rpy:922
 translate spanish after_trace_file_entry_c88c9933:
 
     # s 1x "Heeey, sleepyhead~"
-    s 1x ""
+    s 1x "¿Oyeee, dormilón!"
 
 # game/RewrittenFate.rpy:923
 translate spanish after_trace_file_entry_69ce0c82:
 
     # mc "Morning, Sayori."
-    mc ""
+    mc "Buenos días, Sayori"
 
 # game/RewrittenFate.rpy:924
 translate spanish after_trace_file_entry_40f8dbc5:
 
     # s "You're up early today! Usually I'm the one dragging you out."
-    s ""
+    s "¡Vaya que te levantaste temprano hoy! Casi siempre soy yo quien te trae a rastras."
 
 # game/RewrittenFate.rpy:925
 translate spanish after_trace_file_entry_7196a048:
 
     # mc "Guess I couldn't sleep."
-    mc ""
+    mc "Adivina qué, no pude dormir."
 
 # game/RewrittenFate.rpy:926
 translate spanish after_trace_file_entry_dda0d5c7:
 
     # s 1d "Still thinking about poems?"
-    s 1d ""
+    s 1d "¿Sigues pensando en los poemas?"
 
 # game/RewrittenFate.rpy:927
 translate spanish after_trace_file_entry_da6f4eb6:
 
     # "I glance at her. That soft little smile. The one that tries so hard to hide the ache underneath."
-    ""
+    "La lanzo una mirada. Esa sonrisa tan suave. La que lucha por ocultar el dolor que la aqueja en su interior."
 
 # game/RewrittenFate.rpy:928
 translate spanish after_trace_file_entry_e334e13f:
 
     # mc "Something like that."
-    mc ""
+    mc "Algo así."
 
 # game/RewrittenFate.rpy:929
 translate spanish after_trace_file_entry_8b4064dc:
 
     # s 2q "Well, whatever it is... you'll tell me when you're ready, right?"
-    s 2q ""
+    s 2q "Pues, sea lo que sea... me dirás cuando estés lista, ¿vale?"
 
 # game/RewrittenFate.rpy:930
 translate spanish after_trace_file_entry_4e68be17:
 
     # mc "Only if you promise to do the same."
-    mc ""
+    mc "Solo si prometes hacer lo mismo."
 
 # game/RewrittenFate.rpy:931
 translate spanish after_trace_file_entry_3f67eeab:
 
     # s 4q "Deal."
-    s 4q ""
+    s 4q "Trato hecho."
 
 # game/RewrittenFate.rpy:933
 translate spanish after_trace_file_entry_224a85bd:
 
     # "The school gates loom ahead, familiar and tall. We part ways with a smile."
-    ""
+    "Las puertas de la escuela se alzan delante, tan coocidas y altas. Siempre nos separamos con una sonrisa."
 
 # game/RewrittenFate.rpy:935
 translate spanish after_trace_file_entry_4c34df07:
 
     # "The morning drags."
-    ""
+    "La mañana se hace eterna."
 
 # game/RewrittenFate.rpy:936
 translate spanish after_trace_file_entry_5b5ca634:
 
     # "My mind isn't on the lesson."
-    ""
+    "Mi mente no presta atención a la clase."
 
 # game/RewrittenFate.rpy:937
 translate spanish after_trace_file_entry_289cff77:
 
     # "It's on her."
-    ""
+    "Está pensando en ella."
 
 # game/RewrittenFate.rpy:938
 translate spanish after_trace_file_entry_a79315da:
 
     # "And on what's coming next."
-    ""
+    "Y en lo que se viene."
 
 # game/RewrittenFate.rpy:941
 translate spanish after_trace_file_entry_72785474:
 
     # "The clubroom feels warmer today, the soft buzz of voices already bouncing around the room as I step in."
-    ""
+    "El salón del club se siente más cálido hoy, el suave zumbido de sus voces ya está rebotando alrededor de la habitación a medida que entro."
 
 # game/RewrittenFate.rpy:946
 translate spanish after_trace_file_entry_78b7f29a:
 
     # s 1j "You're late!"
-    s 1j ""
+    s 1j "¡Vienes con retraso!"
 
 # game/RewrittenFate.rpy:947
 translate spanish after_trace_file_entry_502658be:
 
     # mc "I'm exactly on time."
-    mc ""
+    mc "He llegado justo a tiempo."
 
 # game/RewrittenFate.rpy:948
 translate spanish after_trace_file_entry_2deae407:
 
     # n "That's what late people always say."
-    n ""
+    n "Eso es lo que suele decir los que llegan tarde."
 
 # game/RewrittenFate.rpy:949
 translate spanish after_trace_file_entry_d267b05e:
 
     # y "N-Not that it's a problem or anything..."
-    y ""
+    y "N-No, si no es por nada..."
 
 # game/RewrittenFate.rpy:950
 translate spanish after_trace_file_entry_3d8dbf4e:
 
     # m "No worries, [mc]. We were just getting started with our usual banter."
-    m ""
+    m "No te preocupes, [mc]. Nosotros solo estábamos poniéndonos al día con nuestro cotorreo de siempre."
 
 # game/RewrittenFate.rpy:951
 translate spanish after_trace_file_entry_6cf16395:
 
     # s 1q "Yup! Today's special topic: how many cupcakes Natsuki has eaten before club even started."
-    s 1q ""
+    s 1q "¡Sip! El tema especial de hoy: cuántos cupcakes se ha comido Natsuki antes de que incluso comience la reunión."
 
 # game/RewrittenFate.rpy:952
 translate spanish after_trace_file_entry_21c1b418:
 
     # n 4w "I did not!"
-    n 4w ""
+    n 4w "¡No lo hice!"
 
 # game/RewrittenFate.rpy:953
 translate spanish after_trace_file_entry_a4776b82:
 
     # s "Then why do I see frosting on your cheek~?"
-    s ""
+    s "¿Entonces por qué veo glaceado en tu mejilla?"
 
 # game/RewrittenFate.rpy:954
 translate spanish after_trace_file_entry_1e49e725:
 
     # n 1q "Wha- Hey! Get off me!!"
-    n 1q ""
+    n 1q "Espera... Qué ¡Oye! ¡Quítame las manos de encima!"
 
 # game/RewrittenFate.rpy:955
 translate spanish after_trace_file_entry_3f905584:
 
     # "Sayori reaches over with a napkin, laughing while Natsuki bats her hands away in flustered protest."
-    ""
+    "Sayori se extiende con una servilleta, descojonándose mientras Natsuki agita las manos en una mezla de protesta y nerviosismo."
 
 # game/RewrittenFate.rpy:956
 translate spanish after_trace_file_entry_cd92df75:
 
     # y 2f "T-They certainly have... a unique bond."
-    y 2f ""
+    y 2f "E-Ellos en verdad tienen... un vínculo único."
 
 # game/RewrittenFate.rpy:957
 translate spanish after_trace_file_entry_d9a40c73:
 
     # "Monika just smiles faintly, shaking her head."
-    ""
+    "Monika solo sonríe vagamente, agitando la cabeza."
 
 # game/RewrittenFate.rpy:958
 translate spanish after_trace_file_entry_73e045cd:
 
     # m 1j "Okay, okay, before things devolve into a frosting fight, let's remember we still have poems to share today."
-    m 1j ""
+    m 1j "Vale vale, antes de que las cosas se tornen en una pelea de glaseado, mejor recordemos que aún tenemos poemas que compartir hoy."
 
 # game/RewrittenFate.rpy:959
 translate spanish after_trace_file_entry_0a55f628:
 
     # mc "...Wait. Poems."
-    mc ""
+    mc "...Espera. Poemas."
 
 # game/RewrittenFate.rpy:960
 translate spanish after_trace_file_entry_b0a656a7:
 
     # s 4m "Oh right! We never wrote any!"
-    s 4m ""
+    s 4m "¡Oh es verdad! ¡Nunca escribimos ninguno!"
 
 # game/RewrittenFate.rpy:961
 translate spanish after_trace_file_entry_ee116a6c:
 
     # mc "Uh- what now?"
-    mc ""
+    mc "Espera, ¿ahora qué?"
 
 # game/RewrittenFate.rpy:962
 translate spanish after_trace_file_entry_a1920306:
 
     # m 4n "Don't worry, [mc]. I figured someone might forget."
-    m 4n ""
+    m 4n "No os preocupéis, [mc]. Supuse que alguien podría olvidarlo."
 
 # game/RewrittenFate.rpy:963
 translate spanish after_trace_file_entry_c20b3e0f:
 
     # m 4a "Which is why I brought blank paper and stationery for emergencies~"
-    m 4a ""
+    m 4a "Es por eso que traje conmigo una hojas en blanco y papel para cartas en caso de emergencia."
 
 # game/RewrittenFate.rpy:964
 translate spanish after_trace_file_entry_bd7fb841:
 
     # m "Take a seat. You've got fifteen minutes. Make it count."
-    m ""
+    m "Tomen asiento. Tienen quince minutos. Hagan que cuenten."
 
 # game/RewrittenFate.rpy:965
 translate spanish after_trace_file_entry_81779f70:
 
     # "She places a sheet of lined paper in front of me with a wink."
-    ""
+    "Ella coloca una hoja de papel con renglones frente a mí con un guiño."
 
 # game/RewrittenFate.rpy:967
 translate spanish after_trace_file_entry_3952ca88:
 
     # "Sayori gives me an encouraging thumbs-up. Natsuki rolls her eyes but smirks."
-    ""
+    "Sayori me da unos pulgares arriba alentadores. Natsuki hace círculos con la mirada, pero muestra una sonrisita."
 
 # game/RewrittenFate.rpy:968
 translate spanish after_trace_file_entry_a9a434bf:
 
     # n 2c "Let's see if lightning strikes twice, mister 'Creative Weirdo.'"
-    n 2c ""
+    n 2c "Veamos si los milagros se repiten, señor 'rareza creativa'."
 
 # game/RewrittenFate.rpy:969
 translate spanish after_trace_file_entry_228ef480:
 
     # "Yuri just nods politely, already pulling a book into her lap."
-    ""
+    "Yuri asiente cortésmente, colocando un libro en su regazo."
 
 # game/RewrittenFate.rpy:970
 translate spanish after_trace_file_entry_183ad04d:
 
     # "Great. No pressure at all."
-    ""
+    "Bien. Sin presiones."
 
 # game/RewrittenFate.rpy:975
 translate spanish after_trace_file_entry_54ded882:
