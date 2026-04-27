@@ -1,4 +1,4 @@
-
+ 
 # game/RewrittenFate.rpy:522
 translate spanish share_natsuki_17af6d0a:
 
@@ -1916,82 +1916,82 @@ translate spanish after_trace_file_entry_183ad04d:
 translate spanish after_trace_file_entry_54ded882:
 
     # "Everyone else settles into their usual activities while I sit at the desk, pen in hand."
-    ""
+    "Todos los demás estaban abocados a sus actividades de siempre mientras me siento en mi escritorio, lápiz en mano."
 
 # game/RewrittenFate.rpy:976
 translate spanish after_trace_file_entry_fa978869:
 
     # "The clock ticks gently. The scratch of Sayori's pencil. Natsuki tapping her pen rhythmically."
-    ""
+    "El reloj prosigue con su gentil tictac. El rayón del lápiz de Sayori. Natsuki dando golpecitos con su lápiz con ritmo."
 
 # game/RewrittenFate.rpy:977
 translate spanish after_trace_file_entry_887e4ed5:
 
     # "I close my eyes and try to focus."
-    ""
+    "Cierro los ojos tratando de concentrarme."
 
 # game/RewrittenFate.rpy:978
 translate spanish after_trace_file_entry_806d5ee2:
 
     # "Not on the weird code from last night. Not on the file. Not on whatever's watching me behind the screen."
-    ""
+    "No en el extraño código de anoche. No en el archivo. No en lo que sea que me esté observando detrás de la pantalla."
 
 # game/RewrittenFate.rpy:979
 translate spanish after_trace_file_entry_122093d5:
 
     # "Just... emotions. Thoughts. Memories."
-    ""
+    "Solo... emociones, pensamientos, recuerdos."
 
 # game/RewrittenFate.rpy:980
 translate spanish after_trace_file_entry_bea2b4ae:
 
     # "Sayori's laugh. Natsuki's spark. Yuri's calm. Monika's gaze."
-    ""
+    "La carcajada de Sayori. El ánimo de Natsuki. La calma de Yuri. La mirada de Monika."
 
 # game/RewrittenFate.rpy:981
 translate spanish after_trace_file_entry_2d12019d:
 
     # "I let the words come."
-    ""
+    "Dejo que las palabras fluyan."
 
 # game/RewrittenFate.rpy:986
 translate spanish after_trace_file_entry_aded54c4:
 
     # "The bell chimes faintly in the hallway outside. Monika claps her hands to gather our attention."
-    ""
+    "La campana repiquetea débilmente afuera del salón. Monika aplaude para captar nuestra atención."
 
 # game/RewrittenFate.rpy:988
 translate spanish after_trace_file_entry_7a5c0050:
 
     # m "Okay, everyone~!"
-    m ""
+    m "¡Vale, todo el mundo!"
 
 # game/RewrittenFate.rpy:989
 translate spanish after_trace_file_entry_f2d13139:
 
     # m "I hope you had fun writing, because it's time to show off what you've got."
-    m ""
+    m "Espero que hayan disfrutado la escritura, porque es momento de mostrar lo que tienen."
 
 # game/RewrittenFate.rpy:990
 translate spanish after_trace_file_entry_5962dbc5:
 
     # m 1k "Let’s keep things moving smoothly today-so don't worry if it's not perfect!"
-    m 1k ""
+    m 1k "Dejemos que las cosas vayan con soltura el día de hoy, así que no se preocupen si no es perfecto."
 
 # game/RewrittenFate.rpy:992
 translate spanish after_trace_file_entry_ecefaaf8:
 
     # "I glance at the folded page in my hand."
-    ""
+    "Le echo una ojeada a la hoja doblada en mi mano."
 
 # game/RewrittenFate.rpy:993
 translate spanish after_trace_file_entry_6fe81c64:
 
     # "The words still feel a little foreign... like they came from someone else. But they're mine. Somehow."
-    ""
+    "Las palabras aún se sienten un poco ajenas... como si vinieran de alguien más. Pero son mías, de alguna manera."
 
 # game/RewrittenFate.rpy:994
 translate spanish after_trace_file_entry_b9459088:
 
     # "The others are already getting up from their desks, poems in hand."
-    ""
+    "Los otros ya se han levantado de sus lugares, con sus poemas en mano."
