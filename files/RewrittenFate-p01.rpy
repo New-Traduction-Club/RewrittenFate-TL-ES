@@ -1426,49 +1426,49 @@ translate spanish RewrittenFate_02636286:
 translate spanish RewrittenFate_92fac0e1:
 
     # s "Isn't it nice when everyone's excited!"
-    s "Se siente tan bienc"
+    s "¿No se siente bien cuando todos estamos emocionado?"
 
 # game/RewrittenFate.rpy:375
 translate spanish RewrittenFate_46616b77:
 
     # "I offer a small, distracted smile, the room feeling just a little too bright, a little too perfect."
-    ""
+    "Sonrió ligeramente, la habitación se siente demasiado perfecta como para ser verdad."
 
 # game/RewrittenFate.rpy:380
 translate spanish RewrittenFate_357d7f22:
 
     # "Monika looks up, her smile as smooth as always."
-    ""
+    "Monika levanta la mirada, su sonrisa es perfecta como siempre."
 
 # game/RewrittenFate.rpy:381
 translate spanish RewrittenFate_03c50a1c:
 
     # m 1b "I'm glad you're all here."
-    m 1b ""
+    m 1b "Me alegro que todas estemos aquí hoy."
 
 # game/RewrittenFate.rpy:382
 translate spanish RewrittenFate_e109d495:
 
     # "My eyes meet hers for just a moment."
-    ""
+    "Nos vemos a los ojos por un momento."
 
 # game/RewrittenFate.rpy:383
 translate spanish RewrittenFate_81b84506:
 
     # "Something flickers there- or maybe I imagine it."
-    ""
+    "Algo brilla en sus ojos, o tal vez me lo he imaginado."
 
 # game/RewrittenFate.rpy:384
 translate spanish RewrittenFate_494329c1:
 
     # "She tucks a strand of hair behind her ear, turning slightly."
-    ""
+    "Se acomoda un mechón de su cabello tras la oreja y voltea ligeramente."
 
 # game/RewrittenFate.rpy:385
 translate spanish RewrittenFate_99b253a2:
 
     # m 3e "Let's take our time today, okay? There's no rush."
-    m 3e ""
+    m 3e "Tomemos nuestro tiempo hoy ¿vale? no tenes apuro."
 
 # game/RewrittenFate.rpy:390
 translate spanish RewrittenFate_5224043b:
