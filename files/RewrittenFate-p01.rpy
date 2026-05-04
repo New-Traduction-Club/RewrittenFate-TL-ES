@@ -1468,103 +1468,103 @@ translate spanish RewrittenFate_494329c1:
 translate spanish RewrittenFate_99b253a2:
 
     # m 3e "Let's take our time today, okay? There's no rush."
-    m 3e "Tomemos nuestro tiempo hoy ¿vale? no tenes apuro."
+    m 3e "Tomemonos nuestro tiempo hoy ¿vale? no tenes apuro."
 
 # game/RewrittenFate.rpy:390
 translate spanish RewrittenFate_5224043b:
 
     # "I exhale softly, shoulders easing as I settle into my usual seat."
-    ""
+    "Suspiro, mis hombros se calman y me siento en mi lugar habitual."
 
 # game/RewrittenFate.rpy:391
 translate spanish RewrittenFate_494cb068:
 
     # "Outside, the late sun lingers just above the rooftops, the quiet hush of afterschool filling the room like a held breath."
-    ""
+    "Afuera, la luz del crepúsculo permanece sobre los techos, el silencio se apodera del instituto y llenan los salones con una respiración pesada."
 
 # game/RewrittenFate.rpy:392
 translate spanish RewrittenFate_0ff3c414:
 
     # "The low murmur of voices drifts through the room as everyone settles in."
-    ""
+    "Los murmullos se cuelan al salón mientras el resto se acomoda."
 
 # game/RewrittenFate.rpy:393
 translate spanish RewrittenFate_72dd6e5c:
 
     # "The sound of chairs scraping softly against the floor, the faint crinkle of paper, the occasional laugh or whisper- it all weaves together, familiar and oddly delicate."
-    ""
+    "El sonido de las sillas raspando el piso, el crujido de las hojas y la ocasional risa o susurro. Todo junto conforma algo familiar y delicado de alguna manera."
 
 # game/RewrittenFate.rpy:394
 translate spanish RewrittenFate_84904cee:
 
     # "I let my gaze wander, not really focusing on anything."
-    ""
+    "Dejo que mi vista deambule, sin concentrarme en nada particular."
 
 # game/RewrittenFate.rpy:395
 translate spanish RewrittenFate_215f45e1:
 
     # "Yuri remains in the corner, carefully turning the pages of her book."
-    ""
+    "Yuri permanece en su esquina, pasando las páginas de su libro con delicadeza."
 
 # game/RewrittenFate.rpy:396
 translate spanish RewrittenFate_8496bb7c:
 
     # "Natsuki arranges her cupcakes with the focus of someone pretending not to care what anyone thinks."
-    ""
+    "Natsuki arregla sus pastelitos con una concentración de alguien que pretende no importarle lo que los demás piensen."
 
 # game/RewrittenFate.rpy:397
 translate spanish RewrittenFate_11fe6597:
 
     # "Sayori hums under her breath as she scribbles something in a notebook, tongue poking slightly from the corner of her mouth."
-    ""
+    "Sayori tarea algo mientras escribe algo en su cuaderno, saca la lengua ligeramente por la orilla de su boca."
 
 # game/RewrittenFate.rpy:398
 translate spanish RewrittenFate_3718dcc1:
 
     # "And Monika..."
-    ""
+    "Y Monika..."
 
 # game/RewrittenFate.rpy:399
 translate spanish RewrittenFate_56b3b128:
 
     # "My eyes look toward her almost without meaning to."
-    ""
+    "Me le quedo mirando sin querer."
 
 # game/RewrittenFate.rpy:400
 translate spanish RewrittenFate_9c981d3d:
 
     # "She's writing something at the front desk, brow faintly furrowed, one hand brushing her hair back now and then."
-    ""
+    "Está escribiendo algo en el escritorio del frente, con el ceño fruncido, una mano peinando su pelo."
 
 # game/RewrittenFate.rpy:401
 translate spanish RewrittenFate_1f7100ab:
 
     # "For a moment, it looks like she's about to glance up- but she doesn't."
-    ""
+    "Por un momento, parece que esta apunto de levantar la mirada, pero no lo hace."
 
 # game/RewrittenFate.rpy:402
 translate spanish RewrittenFate_9fffa88a:
 
     # "I pull in a quiet breath, resting my arms on the desk."
-    ""
+    "Dejo salir un suspiro silencioso, apoyo mis brazos sobre el escritorio."
 
 # game/RewrittenFate.rpy:403
 translate spanish RewrittenFate_d1643bd7:
 
     # "Everything feels... normal."
-    ""
+    "Todo se siente normal..."
 
 # game/RewrittenFate.rpy:404
 translate spanish RewrittenFate_da78fda5:
 
     # "And yet..."
-    ""
+    "Y aún así..."
 
 # game/RewrittenFate.rpy:405
 translate spanish RewrittenFate_bd66572f:
 
     # "I press my thumb lightly against the edge of the notebook in front of me, the paper soft under my skin."
-    ""
+    "Presiono mi pulgar ligeramente contra la esquina del anotador frente mio, siento el papel rozar mi piel."
 
 # game/RewrittenFate.rpy:406
 translate spanish RewrittenFate_8dd4e68b:
