@@ -1600,43 +1600,43 @@ translate spanish RewrittenFate_389ce63b:
 translate spanish RewrittenFate_64ea1e8f:
 
     # "A burst of laughter snaps me back- Sayori giggling as Natsuki huffs in mock offense, waving a hand at something Sayori said."
-    "Una carcajada me trae de vuelta a la realidad. Sayori suelta una risita mientras Natsuki "
+    "Una carcajada me trae de vuelta a la realidad. Sayori se rie mientras Natsuki resopla ofendida.  "
 
 # game/RewrittenFate.rpy:414
 translate spanish RewrittenFate_3593af27:
 
     # "I manage a small smile, though it feels like there's a thin glass wall between me and the moment."
-    ""
+    "Logro sonreírle, aunque se sienta una barrera fina entre mi y el momento."
 
 # game/RewrittenFate.rpy:418
 translate spanish RewrittenFate_94b3c173:
 
     # "Monika straightens at the front, gathering the loose papers on her desk with a gentle clap of her hands."
-    ""
+    "Monika se acomoda al frente, junta las hojas desparramadas en su escritorio con un suave palmada."
 
 # game/RewrittenFate.rpy:419
 translate spanish RewrittenFate_f918220d:
 
     # m 1b "Alright, everyone! Let's get started, shall we?"
-    m 1b ""
+    m 1b "¡Vale! ¿Qué les parece si empezamos?"
 
 # game/RewrittenFate.rpy:420
 translate spanish RewrittenFate_62b9b496:
 
     # "I feel my pulse quicken just slightly, the faintest catch of breath in my chest."
-    ""
+    "Siento como mi pulso se acelera, mi respiración es lenta."
 
 # game/RewrittenFate.rpy:421
 translate spanish RewrittenFate_4dcf4ab7:
 
     # "Here we go."
-    ""
+    "Aquí vamos"
 
 # game/RewrittenFate.rpy:452
 translate spanish share_sayori_aae6f140:
 
     # "My eyes land on Sayori, who's watching me already bright eyed and expectant."
-    ""
+    "Observo a Sayori, "
 
 # game/RewrittenFate.rpy:453
 translate spanish share_sayori_8bec244e:
