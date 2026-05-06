@@ -1570,37 +1570,37 @@ translate spanish RewrittenFate_bd66572f:
 translate spanish RewrittenFate_8dd4e68b:
 
     # "'Normal' doesn't explain the words that forced themselves onto the page last night."
-    ""
+    "Lo 'normal' no explica las palabras que se forzaron en la hoja anoche."
 
 # game/RewrittenFate.rpy:407
 translate spanish RewrittenFate_593a3295:
 
     # "'Normal' doesn't explain the static crackle at the back of my mind when Monika looks at me."
-    ""
+    "Lo 'normal' no explica la estática que resuena en mi cabeza cuando Monika me ve"
 
 # game/RewrittenFate.rpy:408
 translate spanish RewrittenFate_234d87f5:
 
     # "My chest tightens faintly."
-    ""
+    "Siento tension en el pecho"
 
 # game/RewrittenFate.rpy:409
 translate spanish RewrittenFate_4741bfba:
 
     # "Okay. Just... wait. Watch. See what happens next."
-    ""
+    "Vale, espera un momento... Mira. Mira lo que pasa ahora."
 
 # game/RewrittenFate.rpy:410
 translate spanish RewrittenFate_389ce63b:
 
     # "You'll figure it out."
-    ""
+    "Ya lo entenderás."
 
 # game/RewrittenFate.rpy:413
 translate spanish RewrittenFate_64ea1e8f:
 
     # "A burst of laughter snaps me back- Sayori giggling as Natsuki huffs in mock offense, waving a hand at something Sayori said."
-    ""
+    "Una carcajada me trae de vuelta a la realidad. Sayori suelta una risita mientras Natsuki "
 
 # game/RewrittenFate.rpy:414
 translate spanish RewrittenFate_3593af27:
