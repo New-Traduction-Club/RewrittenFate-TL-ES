@@ -106,7 +106,7 @@ translate spanish RewrittenFate_e463c639:
 translate spanish RewrittenFate_6e4c48ba:
 
     # mc "I'm not supposed to know this. I'm not supposed to {i}know you{/i}."
-    mc "No debería estar conciente, ni saber de {i}tú existencia{/i}."
+    mc "No debería estar conciente, ni saber de {i}tu existencia{/i}."
 
 # game/RewrittenFate.rpy:26
 translate spanish RewrittenFate_fc164b32:
@@ -136,13 +136,13 @@ translate spanish RewrittenFate_f207374c:
 translate spanish RewrittenFate_356ff5d4:
 
     # mc "Listen... I'm not sure how long I can keep talking to you. I'm not even sure if I'll even remember any of this when the script starts."
-    mc "Vale... no se cuanto tiempo podré seguir hablándote. Ni siquiera estoy seguro de recordar esta conversación una vez que el código se ejecute."
+    mc "Vale... no sé cuanto tiempo podré seguir hablándote. Ni siquiera estoy seguro si recordaré esta conversación una vez que el código se ejecute."
 
 # game/RewrittenFate.rpy:42
 translate spanish RewrittenFate_98bbc517:
 
     # mc "But, if your still here, if you can still {i}change things{/i}, I need your help."
-    mc "Pero, si sigue conmigo, en caso de que aún puedas {i}cambiar las cosas{/i}, necesatare de tu ayuda."
+    mc "Pero, si sigues conmigo, en caso de que aún puedas {i}cambiar las cosas{/i}, necesitaré de tu ayuda."
 
 # game/RewrittenFate.rpy:43
 translate spanish RewrittenFate_0b931c9c:
@@ -166,7 +166,7 @@ translate spanish RewrittenFate_b68875d5:
 translate spanish RewrittenFate_ee6fbe40:
 
     # "As usual, I'm surrounded by couples and friend groups walking to school together."
-    "Como siempre, estoy rodeado de parejas y grupos de amigos hacien su trayecto diario hacia el instituto."
+    "Como siempre, estoy rodeado de parejas y grupos de amigos haciendo su trayecto diario hacia el instituto."
 
 # game/RewrittenFate.rpy:61
 translate spanish RewrittenFate_91d6d90c:
