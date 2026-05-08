@@ -106,7 +106,7 @@ translate spanish RewrittenFate_e463c639:
 translate spanish RewrittenFate_6e4c48ba:
 
     # mc "I'm not supposed to know this. I'm not supposed to {i}know you{/i}."
-    mc "No debería estar conciente, ni saber de {i}tu existencia{/i}."
+    mc "No debería estar consciente, ni saber de {i}tu existencia{/i}."
 
 # game/RewrittenFate.rpy:26
 translate spanish RewrittenFate_fc164b32:
@@ -136,7 +136,7 @@ translate spanish RewrittenFate_f207374c:
 translate spanish RewrittenFate_356ff5d4:
 
     # mc "Listen... I'm not sure how long I can keep talking to you. I'm not even sure if I'll even remember any of this when the script starts."
-    mc "Vale... no sé cuanto tiempo podré seguir hablándote. Ni siquiera estoy seguro si recordaré esta conversación una vez que el código se ejecute."
+    mc "Vale... no sé cuánto tiempo podré seguir hablándote. Ni siquiera estoy seguro si recordaré esta conversación una vez que el código se ejecute."
 
 # game/RewrittenFate.rpy:42
 translate spanish RewrittenFate_98bbc517:
@@ -256,7 +256,7 @@ translate spanish RewrittenFate_b8d3aa34:
 translate spanish RewrittenFate_17ec0bac:
 
     # s "You're acting kinda weird today. Everything okay?"
-    s "Estas actuando raro hoy ¿va todo bien?"
+    s "Estás actuando raro hoy ¿va todo bien?"
 
 # game/RewrittenFate.rpy:79
 translate spanish RewrittenFate_2199477d:
@@ -268,7 +268,7 @@ translate spanish RewrittenFate_2199477d:
 translate spanish RewrittenFate_95669826:
 
     # "No. That's a lie. I finally understand what this feeling is."
-    "No. Estoy mintiendo. Por fin entiendo esta sanción."
+    "No. Estoy mintiendo. Por fin entiendo esta sansación."
 
 # game/RewrittenFate.rpy:81
 translate spanish RewrittenFate_b992bbfc:
@@ -298,7 +298,7 @@ translate spanish RewrittenFate_44755c60:
 translate spanish RewrittenFate_0ecebc26:
 
     # "We arrive at school without much more conversation."
-    "Llegamos al insituto sin mucho más de que hablar."
+    "Llegamos al instituto sin mucho más de qué hablar."
 
 # game/RewrittenFate.rpy:91
 translate spanish RewrittenFate_a3c81248:
@@ -310,7 +310,7 @@ translate spanish RewrittenFate_a3c81248:
 translate spanish RewrittenFate_d2139b5c:
 
     # "My head feels... full of static."
-    "Mi cabeza... esta llena de estática."
+    "Mi cabeza... está llena de estática."
 
 # game/RewrittenFate.rpy:93
 translate spanish RewrittenFate_b532b78c:
