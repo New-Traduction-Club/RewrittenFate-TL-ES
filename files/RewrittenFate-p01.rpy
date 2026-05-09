@@ -1630,121 +1630,121 @@ translate spanish RewrittenFate_62b9b496:
 translate spanish RewrittenFate_4dcf4ab7:
 
     # "Here we go."
-    "Aquí vamos"
+    "Aquí vamos."
 
 # game/RewrittenFate.rpy:452
 translate spanish share_sayori_aae6f140:
 
     # "My eyes land on Sayori, who's watching me already bright eyed and expectant."
-    "Observo a Sayori, "
+    "Observo a Sayori, quien me ve con ojos iluminados y expectantes."
 
 # game/RewrittenFate.rpy:453
 translate spanish share_sayori_8bec244e:
 
     # s 1x "Hehe, I can't wait to see your poem!"
-    s 1x ""
+    s 1x "Je, je. ¡No veo la hora para leer tu poema!"
 
 # game/RewrittenFate.rpy:454
 translate spanish share_sayori_20545869:
 
     # "I smile faintly, stepping toward her, poem in hand."
-    ""
+    "Sonrió, me acerco a ella y le entrego mi poema."
 
 # game/RewrittenFate.rpy:455
 translate spanish share_sayori_cd103d70:
 
     # "She bounces lightly on her heels as she takes the page, humming under her breath."
-    ""
+    "Da pequeños saltos y agarra la hoja mientras tararea."
 
 # game/RewrittenFate.rpy:457
 translate spanish share_sayori_bcf32c8a:
 
     # "Her eyes skim the first lines, and I watch the small flicker of her brows, the way her lips press together for half a second."
-    ""
+    "Sus ojos chequean las primeras líneas, veo como sus cejas tiemblan y presiona sus labios por medio segundo."
 
 # game/RewrittenFate.rpy:458
 translate spanish share_sayori_b2dcfe05:
 
     # s "Oh..."
-    s ""
+    s "Ah..."
 
 # game/RewrittenFate.rpy:459
 translate spanish share_sayori_4c0f06e7:
 
     # "She holds the paper carefully now, like it's thinner than it is."
-    ""
+    "Ahora sostiene el papel con cuidado, como si fuese más delicado de lo que es."
 
 # game/RewrittenFate.rpy:460
 translate spanish share_sayori_ae4e9ba0:
 
     # s 2n "This one's... um, kind of different, huh?"
-    s 2n ""
+    s 2n "Este... es algo diferente ¿no?"
 
 # game/RewrittenFate.rpy:461
 translate spanish share_sayori_20e0bc25:
 
     # "I shift my weight, scratching lightly at the back of my neck."
-    ""
+    "Cambio mi postura y me rasco la nuca"
 
 # game/RewrittenFate.rpy:462
 translate spanish share_sayori_25a29e47:
 
     # mc "Yeah, I guess I just... wrote what came to mind."
-    mc ""
+    mc "Supongo que sí... solo escribia lo que me venia a la mente."
 
 # game/RewrittenFate.rpy:463
 translate spanish share_sayori_1622300d:
 
     # "Sayori's eyes lift to mine, warm but puzzled."
-    ""
+    "Los ojos de Sayori se posan en mí, cálidos pero desconcertados"
 
 # game/RewrittenFate.rpy:464
 translate spanish share_sayori_b80898a5:
 
     # s 2g "It's really intense, you know?"
-    s 2g ""
+    s 2g "Es bastante intenso ¿sabes?"
 
 # game/RewrittenFate.rpy:465
 translate spanish share_sayori_7a6bdf7e:
 
     # "Her fingers toy with the edge of the paper."
-    ""
+    "Sus ojos toquetean el borde de la hoja."
 
 # game/RewrittenFate.rpy:466
 translate spanish share_sayori_62050279:
 
     # s 1l "Like... I can feel something heavy in it. But it's not bad! Just..."
-    s 1l ""
+    s 1l "Es como si... tuviese demasiados sentimientos fuertes. ¡No es que este mal! solo..."
 
 # game/RewrittenFate.rpy:467
 translate spanish share_sayori_6390fd57:
 
     # "She trails off, searching."
-    ""
+    "Su voz se apaga, buscando las palabras correctas."
 
 # game/RewrittenFate.rpy:468
 translate spanish share_sayori_446da9cc:
 
     # s 2g "...Like maybe you've been thinking about things a lot."
-    s 2g ""
+    s 2g "Es como si... has estado pensando en demasiadas cosas."
 
 # game/RewrittenFate.rpy:469
 translate spanish share_sayori_852ba18f:
 
     # "I let out a slow breath, half a smile tugging at my mouth."
-    ""
+    "Suspiro. le sonrió levemente."
 
 # game/RewrittenFate.rpy:470
 translate spanish share_sayori_2034c056:
 
     # mc "Maybe."
-    mc ""
+    mc "Tal vez."
 
 # game/RewrittenFate.rpy:472
 translate spanish share_sayori_fc3ce28e:
 
     # "Sayori's smile returns - softer, gentler now."
-    ""
+    "La sonrisa de Sayori vuelve, más gentil ahora"
 
 # game/RewrittenFate.rpy:473
 translate spanish share_sayori_f216de28:
