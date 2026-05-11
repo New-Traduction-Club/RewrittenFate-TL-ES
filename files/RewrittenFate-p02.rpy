@@ -75,7 +75,7 @@ translate spanish share_yuri_b015d145:
 translate spanish share_yuri_616b1f79:
 
     # "I offer her the paper, and she takes it like it might fall apart in her hands."
-    "Le ofrecí el papel y lo toma como si pudiera desmoronarse en sus manos."
+    "Le ofrecí el papel y lo toma como si pudiera deshacerse en sus manos."
 
 # game/RewrittenFate.rpy:540
 translate spanish share_yuri_1082bbb9:
@@ -86,19 +86,19 @@ translate spanish share_yuri_1082bbb9:
 translate spanish share_yuri_fdd271f1:
 
     # "Her eyes dart from word to word, her expression unreadable- until it isn't."
-    "Sus ojos zigzaguean entre palabra y palabra. Su expresión parece indescifrable, hasta que ya no lo es"
+    "Sus ojos zigzaguean entre palabra y palabra. Su expresión parece indescifrable, hasta que ya no lo es."
 
 # game/RewrittenFate.rpy:542
 translate spanish share_yuri_8cc77782:
 
     # "A small crease forms between her brows."
-    "Unas formas arrugadas entre sus cejas."
+    "Entre sus cejas han surgido una especie de pequeñas formas arrugadas.
 
 # game/RewrittenFate.rpy:543
 translate spanish share_yuri_8f8ee4c3:
 
     # "Then, her lips part slightly, as if she wants to say something but can't find the right words."
-    "Luego, sus labios se separan un poco, como si quisiera decir algo, pero no pudiera hallar las palabras adecuadas."
+    "Luego, sus labios se separan un poco, como si quisiera decir algo, pero sin poder hallar las palabras adecuadas."
 
 # game/RewrittenFate.rpy:544
 translate spanish share_yuri_ba77fd7c:
@@ -110,7 +110,7 @@ translate spanish share_yuri_ba77fd7c:
 translate spanish share_yuri_8c20e573:
 
     # y 3o "I read your poem."
-    y 3o "Leí tu poema."
+    y 3o "He leído tu poema."
 
 # game/RewrittenFate.rpy:546
 translate spanish share_yuri_45712605:
@@ -152,13 +152,13 @@ translate spanish share_yuri_b150b8f9:
 translate spanish share_yuri_af6eddf8:
 
     # y 3c "No, I believe you did. But maybe... not alone?"
-    y 3c "No, en verdad creo que lo hiciste. Pero, quizá... ¿no lo hiciste solo?"
+    y 3c "No, en verdad creo que lo has hecho. Pero, quizá... ¿no lo hiciste solo?"
 
 # game/RewrittenFate.rpy:553
 translate spanish share_yuri_2b3848ac:
 
     # "That catches me off guard."
-    "Me toma con la guardia baja."
+    "Me atrapa con la guardia baja."
 
 # game/RewrittenFate.rpy:554
 translate spanish share_yuri_2174cbf4:
@@ -182,7 +182,7 @@ translate spanish share_yuri_cf8bafd7:
 translate spanish share_yuri_da467c58:
 
     # y 2v "But... that's just my impression. Please, take it however you wish."
-    y 2v "Pero... es solo mi impresió. Te ruego, tómalo como te siente mejor."
+    y 2v "Pero... es solo mi impresión. Te ruego, tómalo como te siente mejor."
 
 # game/RewrittenFate.rpy:558
 translate spanish share_yuri_f3d153b4:
@@ -212,7 +212,7 @@ translate spanish share_yuri_b6060d50:
 translate spanish share_yuri_adbf0963:
 
     # "Yuri looks away as I finish reading."
-    "Yur huye con la mirada a medida que termino de leer."
+    "Yuri huye con la mirada a medida que termino de leer."
 
 # game/RewrittenFate.rpy:564
 translate spanish share_yuri_edad3f5c:
@@ -230,7 +230,7 @@ translate spanish share_yuri_94b98ecf:
 translate spanish share_yuri_93fc7c79:
 
     # y 2q "There's danger in feeding what we don't understand... but we do it anyway. Because the hunger feels familiar."
-    y 2q "Alimentar lo que no entendemos tiene sus peligros... pero lo hacemos de todas formas. Porque el hambre se siente como un viejo conocido."
+    y 2q "Alimentar lo que no entendemos tiene su peligro... pero lo hacemos de todas formas. Porque el hambre se siente como un viejo conocido."
 
 # game/RewrittenFate.rpy:567
 translate spanish share_yuri_8eed1c57:
@@ -278,7 +278,7 @@ translate spanish share_yuri_01aa2591:
 translate spanish share_yuri_50388893:
 
     # y "Writing is the one place I feel safe letting my thoughts stretch out."
-    y "La escritura es el refugio que me da seguridad, perimitiendo que a mis pensamientos se profundicen."
+    y "La escritura es el refugio que me da seguridad, permitiendo que mis pensamientos se profundicen."
 
 # game/RewrittenFate.rpy:575
 translate spanish share_yuri_b05099f8:
@@ -308,13 +308,13 @@ translate spanish share_yuri_3d5dbdd3:
 translate spanish share_yuri_f97c10d7:
 
     # "She steps back with quiet grace, retreating to her corner once more, the edges of her expression still softened by the moment we shared."
-    "Ella retrocede con silenciosa elegancia, replegándose a su esquina una vez más, su expresión aún se atenuaban por el momento que compartimos."
+    "Ella retrocede con silenciosa elegancia, replegándose a su esquina una vez más, su expresión aún se atenuaba por el momento que compartimos."
 
 # game/RewrittenFate.rpy:585
 translate spanish share_monika_5a18eb12:
 
     # m "Alright, [mc]... looks like you're my last one today."
-    m "Vale, [mc]... parece que eres la última por hoy"
+    m "Vale, [mc]... parece que eres la última por hoy."
 
 # game/RewrittenFate.rpy:586
 translate spanish share_monika_7a5d87c1:
@@ -410,7 +410,7 @@ translate spanish share_monika_ac38398f:
 translate spanish share_monika_b917d7fb:
 
     # m "Still, I really liked it. There's... depth to it. Like you're starting to understand what writing can uncover."
-    m "Aún así, en verdad me gustó. Hay algo de... profundidad en ello. Es como si comenzaras a entender lo que la escritura puede descubrir."
+    m "Aún así, en verdad me gustó. Hay algo de... profundidad en ello. Es como si comenzaras a entender lo que la escritura puede traer a la luz."
 
 # game/RewrittenFate.rpy:602
 translate spanish share_monika_0bfb0e1c:
@@ -464,7 +464,7 @@ translate spanish share_monika_fc29db1a:
 translate spanish share_monika_1bc68903:
 
     # "...It feels like she's talking to someone."
-    "se siente como se estuviera dirigiendo a alguien."
+    "se siente como si se estuviera dirigiendo a alguien."
 
 # game/RewrittenFate.rpy:612
 translate spanish share_monika_84216776:
@@ -536,7 +536,7 @@ translate spanish After_monika_share_d20faaee:
 translate spanish After_monika_share_39f6f7ba:
 
     # "I rub at my temple. The headache from earlier hasn't returned, but there's a strange pressure building behind my eyes."
-    "Me froto las sienes. El dolor de cabeza de hace rato no ha regresado, pero hay una presión extraña acumulándose detrás de mis ojos"
+    "Me froto las sienes. El dolor de cabeza de hace rato no ha regresado, pero hay una presión extraña acumulándose detrás de mis ojos."
 
 # game/RewrittenFate.rpy:628
 translate spanish After_monika_share_736dc726:
@@ -692,7 +692,7 @@ translate spanish After_monika_share_fb4aa74c:
 translate spanish After_monika_share_25c81926:
 
     # s "You were really cool in the club today, you know!"
-    s "¡Sabes, hoy estado fantástic[end_letter_gender] hoy en el club!"
+    s "¡Sabes, hoy has estado fantástic[end_letter_gender] hoy en el club!"
 
 # game/RewrittenFate.rpy:665
 translate spanish After_monika_share_10d48ebe:
@@ -1028,7 +1028,7 @@ translate spanish After_monika_share_1e207281:
 translate spanish After_monika_share_1ffd0598:
 
     # "Streetlights flicker on one by one, painting the sidewalk in golden pools of light."
-    "Las luces de la acera titilan una a una, impreganando la acera en charcos de luz dorada."
+    "Las luces de la acera titilan una a una, impreganando la acera con charcos de luz dorada."
 
 # game/RewrittenFate.rpy:733
 translate spanish After_monika_share_56170e49:
@@ -1310,7 +1310,7 @@ translate spanish After_monika_share_1d70022b:
 translate spanish After_monika_share_ca70dae5:
 
     # "A sharp flicker blinks across my monitor- lines of code I don't remember writing."
-    "Un destello agudo invade mi monitor, líneas de código que no recuerdo haber escrito-"
+    "Un destello agudo invade mi monitor, líneas de código que no recuerdo haber escrito."
 
 # game/RewrittenFate.rpy:803
 translate spanish After_monika_share_b087dfd5:
