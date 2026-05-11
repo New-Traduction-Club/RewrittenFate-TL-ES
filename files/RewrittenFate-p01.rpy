@@ -4,7 +4,7 @@
 translate spanish RewrittenFate_afd95550:
 
     # "I open the clubroom door and am greeted by-"
-    "Abro la puerta de clase y me encuentro con..."
+    "Abro la puerta del club y me encuentro con..."
 
 # game/RewrittenFate.rpy:5
 translate spanish RewrittenFate_ef4757ba:
@@ -544,7 +544,7 @@ translate spanish RewrittenFate_0c6a6aed:
 translate spanish RewrittenFate_ccbff0e3:
 
     # "Natsuki folds her arms and huffs, a faint blush on her cheeks."
-    "Natsuki se cruza de brazos y resopla. Sus mejillas se sonrojan"
+    "Natsuki se cruza de brazos y resopla. Sus mejillas se sonrojan."
 
 # game/RewrittenFate.rpy:155
 translate spanish RewrittenFate_4fd6d35e:
@@ -760,7 +760,7 @@ translate spanish RewrittenFate_a1ee7324:
 translate spanish RewrittenFate_949b8ac3:
 
     # "Her voice is light, her smile easy- but for just a second, I feel her eyes linger on me."
-    "Su turno es alegre, su sonrisa relajada..., pero, por un momento, siento cómo sus ojos se fijan en mí"
+    "Su turno es alegre, su sonrisa relajada..., pero, por un momento, siento cómo sus ojos se fijan en mí."
 
 # game/RewrittenFate.rpy:211
 translate spanish RewrittenFate_e3903dac:
@@ -904,7 +904,7 @@ translate spanish RewrittenFate_782b00e5:
 translate spanish RewrittenFate_8f046bcb:
 
     # m 1j "I'm so glad."
-    m 1j "Me alegro"
+    m 1j "Me alegro."
 
 # game/RewrittenFate.rpy:245
 translate spanish RewrittenFate_65d90bea:
@@ -952,7 +952,7 @@ translate spanish RewrittenFate_e94a741b:
 translate spanish RewrittenFate_cf1adef2_1:
 
     # mc "Yeah."
-    mc "Sí."
+    mc "Sii."
 
 # game/RewrittenFate.rpy:262
 translate spanish RewrittenFate_50e0494f:
@@ -1054,7 +1054,7 @@ translate spanish RewrittenFate_dd19c15a:
 translate spanish RewrittenFate_46f15ce4:
 
     # mc "Weird... Did I- really write this?"
-    mc "Qué raro... ¿Acabo de escribir esto?."
+    mc "Qué raro... ¿Acabo de escribir esto?"
 
 # game/RewrittenFate.rpy:288
 translate spanish RewrittenFate_fb0aecdd:
@@ -1138,7 +1138,7 @@ translate spanish RewrittenFate_7f25c530:
 translate spanish RewrittenFate_69ce0c82:
 
     # mc "Morning, Sayori."
-    mc "Buenos días, Sayori"
+    mc "Buenos días, Sayori."
 
 # game/RewrittenFate.rpy:307
 translate spanish RewrittenFate_957a2fcf:
@@ -1222,7 +1222,7 @@ translate spanish RewrittenFate_fdd1adc4:
 translate spanish RewrittenFate_a7274af9:
 
     # "Inside, the hallways are filled with the usual chatter and hurried footsteps."
-    "Adentro, los pasillos, como de costumbre, resuenan con las charlas usuales y pasos apurados.  "
+    "Adentro, los pasillos, como de costumbre, resuenan con las charlas usuales y pasos apurados."
 
 # game/RewrittenFate.rpy:326
 translate spanish RewrittenFate_024c3b3a:
