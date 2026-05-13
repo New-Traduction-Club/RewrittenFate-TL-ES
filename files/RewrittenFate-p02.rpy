@@ -92,7 +92,7 @@ translate spanish share_yuri_fdd271f1:
 translate spanish share_yuri_8cc77782:
 
     # "A small crease forms between her brows."
-    "Entre sus cejas han surgido una especie de pequeñas formas arrugadas.
+    "Entre sus cejas han surgido una especie de pequeñas formas arrugadas."
 
 # game/RewrittenFate.rpy:543
 translate spanish share_yuri_8f8ee4c3:
