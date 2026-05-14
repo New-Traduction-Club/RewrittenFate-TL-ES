@@ -1708,7 +1708,7 @@ translate spanish share_sayori_b80898a5:
 translate spanish share_sayori_7a6bdf7e:
 
     # "Her fingers toy with the edge of the paper."
-    # "Sus ojos toquetean el borde de la hoja."
+    "Sus ojos toquetean el borde de la hoja."
 
 # game/RewrittenFate.rpy:466
 translate spanish share_sayori_62050279:
