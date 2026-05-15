@@ -69,7 +69,7 @@ translate spanish share_sayori2_75812a28:
 translate spanish share_sayori2_4932fccc:
 
     # s 1m "That's spooky..."
-    s 1m "Eso da miedo..."
+    s 1m "Eso da mal rollo..."
 
 # game/RewrittenFate.rpy:1034
 translate spanish share_sayori2_c247ca44:
@@ -105,13 +105,13 @@ translate spanish share_sayori2_e4f7828a:
 translate spanish share_sayori2_f113cfe5:
 
     # s 1n "Nuh-uh! I write sunshine and cupcakes. You write... feelings with teeth!"
-    s 1n "¡Que va! Si yo solo escribo cosas dulces y bonitas. Pero tu escribes... ¡emociones que duelen!"
+    s 1n "¡Qué va! Si yo solo escribo cosas dulces y bonitas. Pero tu escribes... ¡emociones que duelen!"
 
 # game/RewrittenFate.rpy:1040
 translate spanish share_sayori2_8b49f003:
 
     # mc "Maybe I'll write about sunshine with teeth next."
-    mc "Quizás la proxima escriba sobre cosas dulces y bonitas que duelan."
+    mc "Quizás la próxima escriba sobre gatitos con lanzallamas."
 
 # game/RewrittenFate.rpy:1041
 translate spanish share_sayori2_6175c7d1:
@@ -129,7 +129,7 @@ translate spanish share_sayori2_f26c8345:
 translate spanish share_sayori2_45f3582c:
 
     # mc "See? You're already braver than you thought."
-    mc "¿Ves? Ya eres más valiente de lo que creías. "
+    mc "¿Ves? Ya eres más valiente de lo que creías."
 
 # game/RewrittenFate.rpy:1044
 translate spanish share_sayori2_fa94a4f5:
@@ -153,7 +153,7 @@ translate spanish share_sayori2_a6907bec:
 translate spanish share_sayori2_6347343a:
 
     # mc "...'Spilled Paint'?"
-    mc "... ¿'Pintura derramada'?"
+    mc "...¿'Pintura derramada'?"
 
 # game/RewrittenFate.rpy:1050
 translate spanish share_sayori2_af31f75d:
@@ -189,7 +189,7 @@ translate spanish share_sayori2_0e555d42:
 translate spanish share_sayori2_b81d892d:
 
     # s 4q "...Thanks."
-    s 4q "... Gracias."
+    s 4q "...Gracias."
 
 # game/RewrittenFate.rpy:1056
 translate spanish share_sayori2_c28a865e:
@@ -213,7 +213,7 @@ translate spanish share_sayori2_f865c8ca:
 translate spanish share_sayori2_ee668a74:
 
     # s 1a "You always know what to say."
-    s 1a "Tu siempre sabes qué decir."
+    s 1a "Tú siempre sabes qué decir."
 
 # game/RewrittenFate.rpy:1065
 translate spanish share_natsuki2_1a6ed792:
@@ -297,7 +297,7 @@ translate spanish share_natsuki2_3fb731dd:
 translate spanish share_natsuki2_535ffbb6:
 
     # n 2h "And you shouldn't let other people make you feel bad for liking the things you like."
-    n 2h "Y que no deberías dejar que los demás te hagan sentir mal por que te gusten las cosas que te gustan"
+    n 2h "Y que no deberías dejar que los demás te hagan sentir mal por que te gusten las cosas que te gustan."
 
 # game/RewrittenFate.rpy:1080
 translate spanish share_natsuki2_dad28150:
@@ -339,7 +339,7 @@ translate spanish share_yuri2_1ca7acbc:
 translate spanish share_yuri2_e72920b3:
 
     # mc "Hey, Yuri."
-    mc "Oye, Yuri"
+    mc "Oye, Yuri."
 
 # game/RewrittenFate.rpy:1092
 translate spanish share_yuri2_67d84e61:
@@ -375,7 +375,7 @@ translate spanish share_yuri2_cf417cad:
 translate spanish share_yuri2_c9b69693:
 
     # mc "...What do you think?"
-    mc "... ¿Qué te parece?"
+    mc "...¿Qué te parece?"
 
 # game/RewrittenFate.rpy:1100
 translate spanish share_yuri2_300483f6:
@@ -393,7 +393,7 @@ translate spanish share_yuri2_6fc30e9e:
 translate spanish share_yuri2_5395d0f6:
 
     # y 3u "It's very... concise. Compact. The imagery is more direct and simple than I anticipated from you."
-    y 3u "Es demasiado... conciso, compacto. La visión aquí es mucho más directa y simple de lo que esperaba de tí."
+    y 3u "Es demasiado... conciso, compacto. La visión aquí es mucho más directa y simple de lo que esperaba de ti."
 
 # game/RewrittenFate.rpy:1103
 translate spanish share_yuri2_c486a340:
@@ -435,7 +435,7 @@ translate spanish share_yuri2_1205150d:
 translate spanish share_yuri2_be4b29ba:
 
     # "She nods, though a bit stiffly."
-    "Ella asiente, aunque con algo de rigidez"
+    "Ella asiente, aunque con algo de rigidez."
 
 # game/RewrittenFate.rpy:1110
 translate spanish share_yuri2_9701ba6d:
