@@ -351,7 +351,7 @@ translate spanish share_yuri2_67d84e61:
 translate spanish share_yuri2_8f284d36:
 
     # y 2v "...Y-Yes. I was hoping you'd ask."
-    y 2v "…S-sí. Estaba esperando a que me lo pidieras."
+    y 2v "... S-sí. Estaba esperando a que me lo pidieras."
 
 # game/RewrittenFate.rpy:1094
 translate spanish share_yuri2_4e47ff3b:
@@ -1125,7 +1125,7 @@ translate spanish after_poem_sharing2_2b8e8e75:
 translate spanish after_poem_sharing2_27fbc0b2:
 
     # "She slides the tray into the oven and sets the timer, then wipes her hands with a towel."
-    ""
+    "Ella mete la bandeja en el horno y ajusta el temporizador, luego se limpia las manos con un paño."
 
 # game/RewrittenFate.rpy:1272
 translate spanish after_poem_sharing2_74f0e891:
@@ -1149,7 +1149,7 @@ translate spanish after_poem_sharing2_aa3c3c2a:
 translate spanish after_poem_sharing2_456694a3:
 
     # "She stares at me, flustered."
-    "Me mira, sonrojada."
+    "Se me queda viendome, sonrojada."
 
 # game/RewrittenFate.rpy:1276
 translate spanish after_poem_sharing2_5a31cdf7:
