@@ -207,7 +207,7 @@ translate spanish share_sayori2_365f4c30:
 translate spanish share_sayori2_f865c8ca:
 
     # "She smiles, eyes soft and warm."
-    "Ella sonríe, con una mirada suave y cálida."
+    "Sonríe, con una mirada suave y cálida."
 
 # game/RewrittenFate.rpy:1059
 translate spanish share_sayori2_ee668a74:
@@ -225,7 +225,7 @@ translate spanish share_natsuki2_1a6ed792:
 translate spanish share_natsuki2_db6dbedc:
 
     # "She snatches my poem from my hands a little too eagerly, but her eyes scan across the lines quickly."
-    "Ella me arrebata el poema de las manos con un entusiasmo quizá excesivo, sus ojos recorren cada línea con rapidez."
+    "Me arrebata el poema de las manos con un entusiasmo quizá excesivo, sus ojos recorren cada línea con rapidez."
 
 # game/RewrittenFate.rpy:1067
 translate spanish share_natsuki2_76ba7600:
@@ -273,7 +273,7 @@ translate spanish share_natsuki2_9ed4f59d:
 translate spanish share_natsuki2_01ebd21f:
 
     # "She crosses her arms but looks away, trying to hide the slight pink on her cheeks."
-    "Ella cruza los brazos y aparta la mirada, intentando esconder el más leve sonrojo de sus mejillas."
+    "Cruza los brazos y aparta la mirada, intentando esconder el más leve sonrojo de sus mejillas."
 
 # game/RewrittenFate.rpy:1075
 translate spanish share_natsuki2_3cdfc2de:
@@ -435,7 +435,7 @@ translate spanish share_yuri2_1205150d:
 translate spanish share_yuri2_be4b29ba:
 
     # "She nods, though a bit stiffly."
-    "Ella asiente, aunque con algo de rigidez"
+    "Asiente, aunque con algo de rigidez"
 
 # game/RewrittenFate.rpy:1110
 translate spanish share_yuri2_9701ba6d:
@@ -927,7 +927,7 @@ translate spanish after_poem_sharing2_895f4c8e:
 translate spanish after_poem_sharing2_ed9399c0:
 
     # "She unlocks the door and leads me inside. It's quiet. Too quiet."
-    "Ella abre la puerta y me lleva hacia adentro. Todo está muy silencioso, demasiado silencioso."
+    "Abre la puerta y me lleva hacia adentro. Todo está muy silencioso, demasiado silencioso."
 
 # game/RewrittenFate.rpy:1235
 translate spanish after_poem_sharing2_bf0e02ca:
@@ -939,7 +939,7 @@ translate spanish after_poem_sharing2_bf0e02ca:
 translate spanish after_poem_sharing2_07839ac7:
 
     # "She kicks her shoes off with practiced caution, like she's walking on eggshells."
-    "Ella se quita los zapatos con una delicadeza ya habitual, como si temiera hacer demasiado ruido."
+    "Se quita los zapatos con una delicadeza ya habitual, como si temiera hacer demasiado ruido."
 
 # game/RewrittenFate.rpy:1237
 translate spanish after_poem_sharing2_c9013ad5:
@@ -957,7 +957,7 @@ translate spanish after_poem_sharing2_9d0f656d:
 translate spanish after_poem_sharing2_3cdbea8e:
 
     # "She doesn't meet my eyes when she says it."
-    "Ella responde evitando contacto visual."
+    "Responde evitando contacto visual."
 
 # game/RewrittenFate.rpy:1240
 translate spanish after_poem_sharing2_dc16ebcd:
@@ -969,7 +969,7 @@ translate spanish after_poem_sharing2_dc16ebcd:
 translate spanish after_poem_sharing2_1cc2c119:
 
     # "She walks ahead into the kitchen, and I trail behind."
-    "Ella se va caminando hacia la cocina, y le acompaño por detrás."
+    "Se va caminando hacia la cocina, y le acompaño por detrás."
 
 # game/RewrittenFate.rpy:1244
 translate spanish after_poem_sharing2_1556135b:
@@ -1113,7 +1113,7 @@ translate spanish after_poem_sharing2_62fa9484:
 translate spanish after_poem_sharing2_39ceafee:
 
     # "She huffs, but there's a hint of warmth behind it."
-    "Ella resopla enfadada, aunque deja entrever cierta ternura."
+    "Resopla enfadada, aunque deja entrever cierta ternura."
 
 # game/RewrittenFate.rpy:1270
 translate spanish after_poem_sharing2_2b8e8e75:
@@ -1125,7 +1125,7 @@ translate spanish after_poem_sharing2_2b8e8e75:
 translate spanish after_poem_sharing2_27fbc0b2:
 
     # "She slides the tray into the oven and sets the timer, then wipes her hands with a towel."
-    "Ella mete la bandeja en el horno y ajusta el temporizador, luego se limpia las manos con un paño."
+    "Desliza la bandeja en el horno, programa el temporizador y se seca las manos con un paño."
 
 # game/RewrittenFate.rpy:1272
 translate spanish after_poem_sharing2_74f0e891:
@@ -1167,7 +1167,7 @@ translate spanish after_poem_sharing2_73fbca48:
 translate spanish after_poem_sharing2_8e7baf2c:
 
     # "She grumbles under her breath, then turns toward the hallway."
-    "Ella resopla con enfado, para luego darse la vuelta hacia el pasillo."
+    "Resopla con enfado, para luego darse la vuelta hacia el pasillo."
 
 # game/RewrittenFate.rpy:1279
 translate spanish after_poem_sharing2_4e8f201b:
