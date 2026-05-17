@@ -447,7 +447,7 @@ translate spanish share_yuri2_9701ba6d:
 translate spanish share_yuri2_20b5f499:
 
     # y "Though I hope you won't abandon your reflective side entirely. It suited you."
-    y "Aun así, espero que no dejes de lado por completo tu lado más reflexivo. Te sentaba bien."
+    y "Aún así, espero que no dejes de lado por completo tu lado más reflexivo. Te sentaba bien."
 
 # game/RewrittenFate.rpy:1112
 translate spanish share_yuri2_6fb1465c:
@@ -537,7 +537,7 @@ translate spanish share_yuri2_2f97a096:
 translate spanish share_yuri2_f7915fa4:
 
     # y 3q "You're very kind, [mc]."
-    y 3q "Realmente eres de noble corazón [mc]"
+    y 3q "Realmente tienes un corazón noble [mc]."
 
 # game/RewrittenFate.rpy:1129
 translate spanish share_yuri2_b2abe987:
@@ -549,13 +549,13 @@ translate spanish share_yuri2_b2abe987:
 translate spanish share_yuri2_ce069147:
 
     # y 1a "I'll be curious to see what direction you go in tomorrow."
-    y 1a "Anhelo ver cual será el enfoque que elegirás tomar mañana"
+    y 1a "Anhelo ver cuál será el enfoque que elegirás tomar mañana."
 
 # game/RewrittenFate.rpy:1131
 translate spanish share_yuri2_ba520b29:
 
     # mc "We'll see what kind of mood I'm in."
-    mc "Ya veremos en qué ánimo me encuentro."
+    mc "Ya veremos con qué ánimo me encuentro."
 
 # game/RewrittenFate.rpy:1132
 translate spanish share_yuri2_be32d7d7:
@@ -645,7 +645,7 @@ translate spanish share_monika2_32b5a00c:
 translate spanish share_monika2_d31cc5a8:
 
     # m 1e "It's who you're trying to understand."
-    m 1e "Se trata de a quién buscas comprender"
+    m 1e "Se trata de a quién buscas comprender."
 
 # game/RewrittenFate.rpy:1154
 translate spanish share_monika2_855e22a2:
@@ -657,7 +657,7 @@ translate spanish share_monika2_855e22a2:
 translate spanish share_monika2_bcdf8cb6:
 
     # m "I hope it resonates with you."
-    m "Espero que resuene en tí."
+    m "Espero que resuene en ti."
 
 # game/RewrittenFate.rpy:1157
 translate spanish share_monika2_edc29184:
@@ -693,13 +693,13 @@ translate spanish share_monika2_0f1729ee:
 translate spanish share_monika2_be84cbf4:
 
     # "Her smile lingers for a moment longer than it should."
-    "Su sonrisa se prolonga un poco más de lo normal."
+    "Su sonrisa se prolonga un poco más de lo habitual."
 
 # game/RewrittenFate.rpy:1163
 translate spanish share_monika2_91ff802d:
 
     # "Then she steps back, the classroom suddenly feeling a little colder in her absence."
-    "Luego retrocede un poco, el aula se siente un poco más fría al quedarse sin ella."
+    "Luego retrocede un poco, el salón se siente un poco más frío al quedarse sin ella."
 
 # game/RewrittenFate.rpy:1164
 translate spanish share_monika2_d367371d:
@@ -729,13 +729,13 @@ translate spanish after_poem_sharing2_c40618c4:
 translate spanish after_poem_sharing2_65d0c20f:
 
     # y "Rushing through too many poems can be mentally exhausting."
-    y "Apresurarse a leer muchos poemas de golpe puede ser agotador."
+    y "Apresurarse a leer muchos poemas en un pispás puede ser agotador."
 
 # game/RewrittenFate.rpy:1177
 translate spanish after_poem_sharing2_6330df7c:
 
     # s 4r "Buuuut I didn't rush! I just... read really enthusiastically!"
-    s 4r "¡Peeero no es que iba con prisa! Es solo que... ¡leo con muchas ganas! "
+    s 4r "¡Peeero no es que iba con prisa! Es solo que... ¡leo con muchas ganas!"
 
 # game/RewrittenFate.rpy:1181
 translate spanish after_poem_sharing2_b99f079a:
@@ -801,7 +801,7 @@ translate spanish after_poem_sharing2_bf55f450:
 translate spanish after_poem_sharing2_349f707c:
 
     # y 3t "I-I wouldn't...! I mean, I'd try to be faithful to your tone..."
-    y 3t "¡N-no me atrevería! Digo, trataré de ser fiel a tu estilo... "
+    y 3t "¡N-no me atrevería! Digo, trataré de ser fiel a tu estilo..."
 
 # game/RewrittenFate.rpy:1196
 translate spanish after_poem_sharing2_0d77223d:
@@ -861,13 +861,13 @@ translate spanish after_poem_sharing2_67bccabd:
 translate spanish after_poem_sharing2_fb54e7ba:
 
     # s "Awww~ Have fun you two!"
-    s "¡Awww~! ¡Pasadlo genial los dos!"
+    s "¡Uyy! ¡Pasadlo genial los dos!"
 
 # game/RewrittenFate.rpy:1213
 translate spanish after_poem_sharing2_bdf897d8:
 
     # m "Let us know if you write any secret bonus poems while you're out~"
-    m "Hagánnos saber si se escriben algún que otro poema de sobra en su escapadita~"
+    m "Hagánnos saber si se escriben algún que otro poema de sobra en su escapadita."
 
 # game/RewrittenFate.rpy:1217
 translate spanish after_poem_sharing2_a881eef5:
@@ -1029,7 +1029,7 @@ translate spanish after_poem_sharing2_70124df1:
 translate spanish after_poem_sharing2_89e90227:
 
     # "She smiles faintly, but it's small, and it doesn't quite reach her eyes."
-    "Esboza una sonrisa con suavidad, pero pequeña, y sus ojos no terminan por reflejar esa sonrisa. "
+    "Esboza una sonrisa con suavidad, pero pequeña, y sus ojos no terminan por reflejar esa sonrisa."
 
 # game/RewrittenFate.rpy:1254
 translate spanish after_poem_sharing2_3ae2eeb2:
@@ -1047,7 +1047,7 @@ translate spanish after_poem_sharing2_6984a011:
 translate spanish after_poem_sharing2_93736a87:
 
     # "I grab ingredients as she names them, and soon we fall into a rhythm- flour, sugar, eggs, oil..."
-    "Voy cogiendo los ingredientes que ella me va nombrando, y, al poco, todo empieza a seguir un ritmo: harina, azúcar, huevos, aceite... "
+    "Voy cogiendo los ingredientes que ella me va nombrando, y, al poco, todo empieza a seguir un ritmo: harina, azúcar, huevos, aceite..."
 
 # game/RewrittenFate.rpy:1257
 translate spanish after_poem_sharing2_20cd1318:
@@ -1113,7 +1113,7 @@ translate spanish after_poem_sharing2_62fa9484:
 translate spanish after_poem_sharing2_39ceafee:
 
     # "She huffs, but there's a hint of warmth behind it."
-    "Ella resopla enfadada, aunque deja entrever cierta ternura"
+    "Ella resopla enfadada, aunque deja entrever cierta ternura."
 
 # game/RewrittenFate.rpy:1270
 translate spanish after_poem_sharing2_2b8e8e75:
@@ -1143,7 +1143,7 @@ translate spanish after_poem_sharing2_7644fc81:
 translate spanish after_poem_sharing2_aa3c3c2a:
 
     # n 1h "Wha-?!"
-    n 1h "¿¡Qué?!"
+    n 1h "¿¡Qué!?"
 
 # game/RewrittenFate.rpy:1275
 translate spanish after_poem_sharing2_456694a3:
@@ -1353,7 +1353,7 @@ translate spanish file_manipulation_natsuki_d6e37fd0:
 translate spanish file_manipulation_natsuki_9ed2588a:
 
     # mc "...What the hell was that?"
-    mc "¿Qué cojones ha sido eso?"
+    mc "¿Qué narices ha sido eso?"
 
 # game/RewrittenFate.rpy:1348
 translate spanish file_manipulation_natsuki_5bb3a574:
@@ -1395,7 +1395,7 @@ translate spanish file_manipulation_natsuki_91bd8914:
 translate spanish after_file_created_400b2eb4:
 
     # "The tension evaporates as quickly as it came."
-    "La tensión se desvanece tan rápido como apareció."
+    "La tensión se esfuma tan rápido como apareció."
 
 # game/RewrittenFate.rpy:1371
 translate spanish after_file_created_506ffbb6:
