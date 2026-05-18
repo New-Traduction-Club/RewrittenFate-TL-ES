@@ -382,7 +382,7 @@ translate spanish RewrittenFate_2b35b6fe_1:
 translate spanish RewrittenFate_3196f741:
 
     # s 1b "You okay?"
-    s 1b "¿Estás bien?"
+    s 1b "¿Te encuentras bien?"
 
 # game/RewrittenFate.rpy:112
 translate spanish RewrittenFate_c0cbb68a:
@@ -724,7 +724,7 @@ translate spanish RewrittenFate_a80516a3:
 translate spanish RewrittenFate_f9d3004d:
 
     # "She says it kindly."
-    "Lo dice gentilmente"
+    "Lo dice gentilmente."
 
 # game/RewrittenFate.rpy:200
 translate spanish RewrittenFate_9998aa97:
@@ -1426,7 +1426,7 @@ translate spanish RewrittenFate_02636286:
 translate spanish RewrittenFate_92fac0e1:
 
     # s "Isn't it nice when everyone's excited!"
-    s "¿No se siente bien cuando todos estamos emocionados?"
+    s "¿No se siente bien cuando todos estamos flipando?"
 
 # game/RewrittenFate.rpy:375
 translate spanish RewrittenFate_46616b77:
@@ -1576,13 +1576,13 @@ translate spanish RewrittenFate_8dd4e68b:
 translate spanish RewrittenFate_593a3295:
 
     # "'Normal' doesn't explain the static crackle at the back of my mind when Monika looks at me."
-    "Lo 'normal' no explica la estática que resuena en mi cabeza cuando Monika me ve"
+    "Lo 'normal' no explica la estática que resuena en mi cabeza cuando Monika me ve."
 
 # game/RewrittenFate.rpy:408
 translate spanish RewrittenFate_234d87f5:
 
     # "My chest tightens faintly."
-    "Siento tensión en el pecho"
+    "Siento tensión en el pecho."
 
 # game/RewrittenFate.rpy:409
 translate spanish RewrittenFate_4741bfba:
@@ -1744,7 +1744,7 @@ translate spanish share_sayori_2034c056:
 translate spanish share_sayori_fc3ce28e:
 
     # "Sayori's smile returns - softer, gentler now."
-    "La sonrisa de Sayori vuelve, más gentil ahora"
+    "La sonrisa de Sayori vuelve, más gentil ahora."
 
 # game/RewrittenFate.rpy:473
 translate spanish share_sayori_f216de28:
