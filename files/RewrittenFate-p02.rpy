@@ -1610,7 +1610,7 @@ translate spanish after_trace_file_entry_f86a7ae8:
 translate spanish after_trace_file_entry_cd9a61af:
 
     # "The cursor still blinks."
-    "El curso aún titila."
+    "El cursor aún titila."
 
 # game/RewrittenFate.rpy:906
 translate spanish after_trace_file_entry_bf80052e:
@@ -1676,7 +1676,7 @@ translate spanish after_trace_file_entry_67156876:
 translate spanish after_trace_file_entry_c88c9933:
 
     # s 1x "Heeey, sleepyhead~"
-    s 1x "¿Oyeee, dormilón!"
+    s 1x "¡Oyeee, dormilón!"
 
 # game/RewrittenFate.rpy:923
 translate spanish after_trace_file_entry_69ce0c82:
@@ -1808,7 +1808,7 @@ translate spanish after_trace_file_entry_6cf16395:
 translate spanish after_trace_file_entry_21c1b418:
 
     # n 4w "I did not!"
-    n 4w "¡No lo hice!"
+    n 4w "¡No lo he hecho!"
 
 # game/RewrittenFate.rpy:953
 translate spanish after_trace_file_entry_a4776b82:
