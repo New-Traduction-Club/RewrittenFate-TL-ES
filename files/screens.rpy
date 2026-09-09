@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/screens.rpy:855
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:855
     old "empty slot"
@@ -84,7 +84,7 @@ translate spanish strings:
 
     # game/screens.rpy:950
     old "Display"
-    new ""
+    new "Pantalla"
 
     # game/screens.rpy:951
     old "Window"
