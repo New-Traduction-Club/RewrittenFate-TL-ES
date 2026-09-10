@@ -10,7 +10,7 @@ translate spanish RewrittenFate_afd95550:
 translate spanish RewrittenFate_ef4757ba:
 
     # mc "Huh..?"
-    mc "¿Qué...?"
+    mc "¿Eh...?"
 
 # game/RewrittenFate.rpy:6
 translate spanish RewrittenFate_6cc9a41f:
@@ -58,7 +58,7 @@ translate spanish RewrittenFate_65bb4519:
 translate spanish RewrittenFate_6d6518cc:
 
     # mc "You're not just the player, are you?"
-    mc "No eres solo un jugador, ¿verdad?"
+    mc "No eres solo el jugador, ¿verdad?"
 
 # game/RewrittenFate.rpy:17
 translate spanish RewrittenFate_19746ade:
@@ -94,19 +94,19 @@ translate spanish RewrittenFate_2b35b6fe:
 translate spanish RewrittenFate_4a5ce61b:
 
     # mc "It's you.. isn't it?"
-    mc "Eres tú... ¿No es así?"
+    mc "Eres tú... ¿verdad?"
 
 # game/RewrittenFate.rpy:24
 translate spanish RewrittenFate_e463c639:
 
     # mc "You're the one holding the pen."
-    mc "Tú eres el que tiene el control."
+    mc "Tú eres quien sujeta el bolígrafo."
 
 # game/RewrittenFate.rpy:25
 translate spanish RewrittenFate_6e4c48ba:
 
     # mc "I'm not supposed to know this. I'm not supposed to {i}know you{/i}."
-    mc "No debería estar consciente, ni saber de tu existencia."
+    mc "No debería saber esto. No debería saber de ti."
 
 # game/RewrittenFate.rpy:26
 translate spanish RewrittenFate_fc164b32:
@@ -142,7 +142,7 @@ translate spanish RewrittenFate_356ff5d4:
 translate spanish RewrittenFate_98bbc517:
 
     # mc "But, if your still here, if you can still {i}change things{/i}, I need your help."
-    mc "Pero, si sigues conmigo, en caso de que aún puedas cambiar las cosas, necesitaré de tu ayuda."
+    mc "Pero, si sigues aquí, si aún puedes cambiar las cosas, necesito tu ayuda."
 
 # game/RewrittenFate.rpy:43
 translate spanish RewrittenFate_0b931c9c:
@@ -166,13 +166,13 @@ translate spanish RewrittenFate_b68875d5:
 translate spanish RewrittenFate_ee6fbe40:
 
     # "As usual, I'm surrounded by couples and friend groups walking to school together."
-    "Como es costumbre, estoy rodeado de parejas y grupos de amigos haciendo su trayecto diario hacia el insti."
+    "Como de costumbre, me rodean parejas y grupos de amigos haciendo el trayecto diario hacia el insti."
 
 # game/RewrittenFate.rpy:61
 translate spanish RewrittenFate_91d6d90c:
 
     # "...But it doesn't feel quite the same this time."
-    "Pero... no es lo mismo, hay algo diferente."
+    "Pero... esta vez no se siente igual."
 
 # game/RewrittenFate.rpy:62
 translate spanish RewrittenFate_a51510ec:
@@ -190,7 +190,7 @@ translate spanish RewrittenFate_22cd68dd:
 translate spanish RewrittenFate_bb0b329f:
 
     # mc "!?!"
-    mc "!¿?!"
+    mc "¡¿?!"
 
 # game/RewrittenFate.rpy:66
 translate spanish RewrittenFate_a75a1d11:
@@ -256,7 +256,7 @@ translate spanish RewrittenFate_b8d3aa34:
 translate spanish RewrittenFate_17ec0bac:
 
     # s "You're acting kinda weird today. Everything okay?"
-    s "Hoy te comportas de forma un tanto rara. ¿Va todo bien?"
+    s "Hoy te noto un poco raro. ¿Va todo bien?"
 
 # game/RewrittenFate.rpy:79
 translate spanish RewrittenFate_2199477d:
@@ -310,7 +310,7 @@ translate spanish RewrittenFate_a3c81248:
 translate spanish RewrittenFate_d2139b5c:
 
     # "My head feels... full of static."
-    "Mi cabeza... No sé que será."
+    "Siento la cabeza... llena de estática."
 
 # game/RewrittenFate.rpy:93
 translate spanish RewrittenFate_b532b78c:
@@ -334,7 +334,7 @@ translate spanish RewrittenFate_feed3e08:
 translate spanish RewrittenFate_c8c1b6b3:
 
     # "No. Focus. Just get through the day."
-    "No. Concéntrate. Solo termina el día"
+    "No. Céntrate. Solo tienes que sobrevivir al día de hoy."
 
 # game/RewrittenFate.rpy:99
 translate spanish RewrittenFate_ab488f0f:
@@ -418,7 +418,7 @@ translate spanish RewrittenFate_fcb94f49:
 translate spanish RewrittenFate_b046ecca:
 
     # s "To the club! Remember?"
-    s "¡Al club! ¿Lo recuerdas?"
+    s "¡Al club! ¿Te acuerdas?"
 
 # game/RewrittenFate.rpy:119
 translate spanish RewrittenFate_ee5daf75:
@@ -448,13 +448,13 @@ translate spanish RewrittenFate_076f8557:
 translate spanish RewrittenFate_8b1933ba:
 
     # "Her grip is warm. Familiar."
-    "Su agarre es acogedor. Familiar."
+    "Su tacto es cálido. Familiar."
 
 # game/RewrittenFate.rpy:124
 translate spanish RewrittenFate_a6ebe217:
 
     # "I can't lose you again. I promise I'll keep you safe Sayori... "
-    "No permitiré perderte de nuevo. Prometo mantenerte a salvo, Sayori..."
+    "No puedo volver a perderte. Prometo que te mantendré a salvo, Sayori..."
 
 # game/RewrittenFate.rpy:126
 translate spanish RewrittenFate_bcfdcb11:
@@ -514,7 +514,7 @@ translate spanish RewrittenFate_9abccc06:
 translate spanish RewrittenFate_bc318065:
 
     # "She's looking at me- not just at me, but {i}through{/i} me."
-    "Me está mirando; pero no a mí, sino a través de mí."
+    "Me está mirando, pero no a mí, sino a través de mí."
 
 # game/RewrittenFate.rpy:150
 translate spanish RewrittenFate_e44283cc:
@@ -574,7 +574,7 @@ translate spanish RewrittenFate_e67e1e5b:
 translate spanish RewrittenFate_25a076c3:
 
     # "First, we play along."
-    "Primero, les llevo la corriente."
+    "Primero, seguiré la corriente."
 
 # game/RewrittenFate.rpy:161
 translate spanish RewrittenFate_1ad97588:
@@ -616,7 +616,7 @@ translate spanish RewrittenFate_beb9d77a:
 translate spanish RewrittenFate_a12e9ae3:
 
     # n "Pff. We were fine before."
-    n "Puf. Ya estábamos bien antes."
+    n "Puf. Estábamos bien antes."
 
 # game/RewrittenFate.rpy:178
 translate spanish RewrittenFate_7fcf852c:
@@ -628,13 +628,13 @@ translate spanish RewrittenFate_7fcf852c:
 translate spanish RewrittenFate_1e99142c:
 
     # "Her words bite, but there's no venom. Just habit."
-    "Sus palabras lastiman, pero no envenenan. Es solo el hábito."
+    "Sus palabras muerden, pero no llevan veneno. Es solo la costumbre."
 
 # game/RewrittenFate.rpy:180
 translate spanish RewrittenFate_4f3738fd:
 
     # "I remember this... I remember {i}all{/i} of this."
-    "Recuerdo... lo recuerdo todo."
+    "Me acuerdo de esto... Me acuerdo de todo esto."
 
 # game/RewrittenFate.rpy:185
 translate spanish RewrittenFate_6934b460:
@@ -700,7 +700,7 @@ translate spanish RewrittenFate_28a33c17:
 translate spanish RewrittenFate_6639202d:
 
     # n 2w "Hmph. We'll see if he can keep up."
-    n 2w "Ya... Veremos si nos puede llevar el ritmo."
+    n 2w "Ya... Veremos si puede seguirnos el ritmo."
 
 # game/RewrittenFate.rpy:196
 translate spanish RewrittenFate_72100007:
@@ -748,7 +748,7 @@ translate spanish RewrittenFate_0184c6b2:
 translate spanish RewrittenFate_e3154fa9:
 
     # m "If you'd like, you're welcome to come back tomorrow."
-    m "Si gustas, puedes volver mañana."
+    m "Si quieres, puedes pasarte de nuevo mañana."
 
 # game/RewrittenFate.rpy:209
 translate spanish RewrittenFate_a1ee7324:
@@ -928,7 +928,7 @@ translate spanish RewrittenFate_c1ef10c7:
 translate spanish RewrittenFate_c1ea8f39:
 
     # "Somewhere along the way, the afternoon light begins to fade, softening at the edges."
-    "Sin darme cuenta, las luces del atardecer empiezan a salir, notándose ya a lo lejos."
+    "Sin darme cuenta, la luz de la tarde empieza a desvanecerse, suavizando el ambiente."
 
 # game/RewrittenFate.rpy:258
 translate spanish RewrittenFate_db2cd3fe:
@@ -970,7 +970,7 @@ translate spanish RewrittenFate_4294d53f:
 translate spanish RewrittenFate_7f4cc0bd:
 
     # "She doesn't know."
-    "No tiene idea."
+    "No tiene ni idea."
 
 # game/RewrittenFate.rpy:265
 translate spanish RewrittenFate_95241095:
@@ -1054,7 +1054,7 @@ translate spanish RewrittenFate_dd19c15a:
 translate spanish RewrittenFate_46f15ce4:
 
     # mc "Weird... Did I- really write this?"
-    mc "Qué raro... ¿Acabo de escribir esto?"
+    mc "Qué raro... ¿De verdad he escrito yo esto?"
 
 # game/RewrittenFate.rpy:288
 translate spanish RewrittenFate_fb0aecdd:
@@ -1078,7 +1078,7 @@ translate spanish RewrittenFate_891d4012:
 translate spanish RewrittenFate_469b5350:
 
     # "It's fine, It's just a poem."
-    "Está bien. Es solo un poema."
+    "No pasa nada. Es solo un poema."
 
 # game/RewrittenFate.rpy:292
 translate spanish RewrittenFate_1a169593:
@@ -1090,7 +1090,7 @@ translate spanish RewrittenFate_1a169593:
 translate spanish RewrittenFate_71fa0221:
 
     # "Tomorrow, I whisper, glancing at the dark window. I'll figure it out tomorrow."
-    "Mañana, susurro, mirando la oscura ventana. Lo averiguaré mañana."
+    "Mañana, susurro, mirando por la ventana a oscuras. Mañana lo averiguaré."
 
 # game/RewrittenFate.rpy:294
 translate spanish RewrittenFate_482cf344:
@@ -1156,7 +1156,7 @@ translate spanish RewrittenFate_851afa1d:
 translate spanish RewrittenFate_9c15bc76:
 
     # mc "No, just... thinking, I guess."
-    mc "No, solo estoy... pensando."
+    mc "No, solo estaba... pensando."
 
 # game/RewrittenFate.rpy:310
 translate spanish RewrittenFate_db488565:
@@ -1300,7 +1300,7 @@ translate spanish RewrittenFate_ab0c32a9:
 translate spanish RewrittenFate_623495ae:
 
     # "I glance down at the scribbled notes on the page, but they blur into meaningless shapes."
-    "Miro las palabras sueltas en mi hoja, pero se deforman en sinsentidos."
+    "Bajo la mirada hacia los garabatos de la página, pero se desdibujan en formas sin sentido."
 
 # game/RewrittenFate.rpy:342
 translate spanish RewrittenFate_5de65486:
@@ -1414,7 +1414,7 @@ translate spanish RewrittenFate_cde8998b:
 translate spanish RewrittenFate_ae71caec:
 
     # y 3i "If... anyone's interested, I brought something new today."
-    y 3i "Por si a alguien le interesa..., hoy he traído algo nuevo."
+    y 3i "Si... a alguien le interesa, hoy he traído algo nuevo."
 
 # game/RewrittenFate.rpy:373
 translate spanish RewrittenFate_02636286:
@@ -1432,7 +1432,7 @@ translate spanish RewrittenFate_92fac0e1:
 translate spanish RewrittenFate_46616b77:
 
     # "I offer a small, distracted smile, the room feeling just a little too bright, a little too perfect."
-    "Sonrío, distraído. La habitación resulta un poco demasiado brillante, un poco demasiado perfecta."
+    "Esbozo una sonrisa distraída. La habitación me parece demasiado brillante, demasiado perfecta."
 
 # game/RewrittenFate.rpy:380
 translate spanish RewrittenFate_357d7f22:
@@ -1582,7 +1582,7 @@ translate spanish RewrittenFate_593a3295:
 translate spanish RewrittenFate_234d87f5:
 
     # "My chest tightens faintly."
-    "Siento tensión en el pecho."
+    "Siento una leve opresión en el pecho."
 
 # game/RewrittenFate.rpy:409
 translate spanish RewrittenFate_4741bfba:
@@ -1606,7 +1606,7 @@ translate spanish RewrittenFate_64ea1e8f:
 translate spanish RewrittenFate_3593af27:
 
     # "I manage a small smile, though it feels like there's a thin glass wall between me and the moment."
-    "Logro sonreírle, aunque se sienta una barrera fina entre mí y el momento."
+    "Logro esbozar una pequeña sonrisa, aunque siento como si hubiera un fino cristal separándome de este momento."
 
 # game/RewrittenFate.rpy:418
 translate spanish RewrittenFate_94b3c173:
@@ -1642,7 +1642,7 @@ translate spanish share_sayori_aae6f140:
 translate spanish share_sayori_8bec244e:
 
     # s 1x "Hehe, I can't wait to see your poem!"
-    s 1x "Je, je. ¡No veo la hora para leer tu poema!"
+    s 1x "Je, je. ¡Me muero de ganas de leer tu poema!"
 
 # game/RewrittenFate.rpy:454
 translate spanish share_sayori_20545869:
@@ -1684,7 +1684,7 @@ translate spanish share_sayori_ae4e9ba0:
 translate spanish share_sayori_20e0bc25:
 
     # "I shift my weight, scratching lightly at the back of my neck."
-    "Cambio la postura y me rasco la nuca."
+    "Cambio de postura y me rasco un poco la nuca."
 
 # game/RewrittenFate.rpy:462
 translate spanish share_sayori_25a29e47:
@@ -1714,7 +1714,7 @@ translate spanish share_sayori_7a6bdf7e:
 translate spanish share_sayori_62050279:
 
     # s 1l "Like... I can feel something heavy in it. But it's not bad! Just..."
-    s 1l "En plan... puedo sentir cierto peso en él. ¡Pero no está mal! Solo que..."
+    s 1l "En plan... puedo notar que es un poco duro. ¡Pero no en el mal sentido! Solo que..."
 
 # game/RewrittenFate.rpy:467
 translate spanish share_sayori_6390fd57:
@@ -1828,7 +1828,7 @@ translate spanish share_sayori_6fbf3922:
 translate spanish share_sayori_53a47683:
 
     # s 3q "I like writing like this. It feels like... little pieces of me can sit on the page and breathe, you know?"
-    s 3q "Me gusta escribir de esta forma. Es como si... pedacitos de mí pudieran reposar en el papel y respirar, ¿sabes?"
+    s 3q "Me gusta escribir así. Es como si... pedacitos de mí pudieran reposar en el papel y respirar, ¿sabes?"
 
 # game/RewrittenFate.rpy:488
 translate spanish share_sayori_234811ed:
@@ -1900,7 +1900,7 @@ translate spanish share_natsuki_4852ae3c:
 translate spanish share_natsuki_d67d18a7:
 
     # n 2w "Well... it's not completely awful."
-    n 2w "Ya... ni tan mal"
+    n 2w "Ya... ni tan mal."
 
 # game/RewrittenFate.rpy:505
 translate spanish share_natsuki_f4b470ca:
@@ -1912,7 +1912,7 @@ translate spanish share_natsuki_f4b470ca:
 translate spanish share_natsuki_78ffa4e4:
 
     # n 2t "I mean, it's all weird and makes no sense at the start, but then it kinda... changes. Gets a little more normal near the end."
-    n 2t "A ver, es muy raro y no tiene sentido al principio, pero luego como que... cambia. Se vuelve un poco más normal hacia en el final."
+    n 2t "A ver, es muy raro y no tiene sentido al principio, pero luego como que... cambia. Se vuelve un poco más normal hacia el final."
 
 # game/RewrittenFate.rpy:507
 translate spanish share_natsuki_e1b8766e:
@@ -1954,7 +1954,7 @@ translate spanish share_natsuki_fd21fd8e:
 translate spanish share_natsuki_19443e66:
 
     # n "Whatever, but don't be jealous when you see how good it is."
-    n "Como quieras, pero no te pongas celoso cuando veas lo bueno que es."
+    n "Como quieras, pero no te mueras de envidia cuando veas lo bueno que es."
 
 # game/RewrittenFate.rpy:515
 translate spanish share_natsuki_90cec7dc:
